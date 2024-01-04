@@ -1,0 +1,3082 @@
+StateName,State,County FIPS Code,Opioid Dispensing Rate per 100
+Alabama,AL,1001,98.3
+Alabama,AL,1003,65.0
+Alabama,AL,1005,22.8
+Alabama,AL,1007,24.8
+Alabama,AL,1009,22.8
+Alabama,AL,1011,22.0
+Alabama,AL,1013,35.1
+Alabama,AL,1015,97.9
+Alabama,AL,1017,60.5
+Alabama,AL,1019,50.6
+Alabama,AL,1021,39.3
+Alabama,AL,1023,37.8
+Alabama,AL,1025,65.9
+Alabama,AL,1027,81.7
+Alabama,AL,1029,5.7
+Alabama,AL,1031,74.4
+Alabama,AL,1033,150.0
+Alabama,AL,1035,113.3
+Alabama,AL,1037,0.0
+Alabama,AL,1039,85.3
+Alabama,AL,1041,33.4
+Alabama,AL,1043,81.1
+Alabama,AL,1045,31.8
+Alabama,AL,1047,62.7
+Alabama,AL,1049,64.3
+Alabama,AL,1051,26.8
+Alabama,AL,1053,81.2
+Alabama,AL,1055,102.8
+Alabama,AL,1057,53.6
+Alabama,AL,1059,89.4
+Alabama,AL,1061,17.0
+Alabama,AL,1063,16.5
+Alabama,AL,1065,22.6
+Alabama,AL,1067,46.2
+Alabama,AL,1069,136.5
+Alabama,AL,1071,71.7
+Alabama,AL,1073,139.0
+Alabama,AL,1075,10.7
+Alabama,AL,1077,57.3
+Alabama,AL,1079,28.3
+Alabama,AL,1081,35.4
+Alabama,AL,1083,26.9
+Alabama,AL,1085,8.3
+Alabama,AL,1087,11.3
+Alabama,AL,1089,87.3
+Alabama,AL,1091,58.8
+Alabama,AL,1093,106.0
+Alabama,AL,1095,92.2
+Alabama,AL,1097,98.0
+Alabama,AL,1099,53.7
+Alabama,AL,1101,86.3
+Alabama,AL,1103,67.9
+Alabama,AL,1105,17.3
+Alabama,AL,1107,43.7
+Alabama,AL,1109,38.5
+Alabama,AL,1111,47.0
+Alabama,AL,1113,35.9
+Alabama,AL,1115,63.0
+Alabama,AL,1117,64.6
+Alabama,AL,1119,41.9
+Alabama,AL,1121,39.7
+Alabama,AL,1123,43.4
+Alabama,AL,1125,86.6
+Alabama,AL,1127,123.0
+Alabama,AL,1129,29.4
+Alabama,AL,1131,16.0
+Alabama,AL,1133,65.0
+Alaska,AK,2013,9.6
+Alaska,AK,2016,2.1
+Alaska,AK,2020,47.2
+Alaska,AK,2050,8.8
+Alaska,AK,2060,6.4
+Alaska,AK,2068,5.2
+Alaska,AK,2070,1.7
+Alaska,AK,2090,29.7
+Alaska,AK,2100,0.5
+Alaska,AK,2105,3.0
+Alaska,AK,2110,29.2
+Alaska,AK,2122,47.3
+Alaska,AK,2130,49.5
+Alaska,AK,2150,18.0
+Alaska,AK,2158,1.0
+Alaska,AK,2170,38.0
+Alaska,AK,2180,3.0
+Alaska,AK,2185,2.2
+Alaska,AK,2188,11.2
+Alaska,AK,2195,67.0
+Alaska,AK,2198,18.0
+Alaska,AK,2220,14.8
+Alaska,AK,2230,10.4
+Alaska,AK,2240,14.1
+Alaska,AK,2275,3.9
+Alaska,AK,2282,8.1
+Alaska,AK,2290,2.6
+Arizona,AZ,4001,4.9
+Arizona,AZ,4003,34.4
+Arizona,AZ,4005,32.2
+Arizona,AZ,4007,42.8
+Arizona,AZ,4009,51.6
+Arizona,AZ,4011,1.6
+Arizona,AZ,4012,14.8
+Arizona,AZ,4013,42.4
+Arizona,AZ,4015,66.4
+Arizona,AZ,4017,43.6
+Arizona,AZ,4019,46.9
+Arizona,AZ,4021,10.5
+Arizona,AZ,4023,5.9
+Arizona,AZ,4025,48.6
+Arizona,AZ,4027,28.2
+Arkansas,AR,5001,70.7
+Arkansas,AR,5003,26.0
+Arkansas,AR,5005,136.7
+Arkansas,AR,5007,37.1
+Arkansas,AR,5009,67.2
+Arkansas,AR,5011,73.8
+Arkansas,AR,5013,15.3
+Arkansas,AR,5015,37.4
+Arkansas,AR,5017,90.0
+Arkansas,AR,5019,54.7
+Arkansas,AR,5021,72.7
+Arkansas,AR,5023,53.9
+Arkansas,AR,5025,4.9
+Arkansas,AR,5027,51.7
+Arkansas,AR,5029,38.2
+Arkansas,AR,5031,164.0
+Arkansas,AR,5033,51.4
+Arkansas,AR,5035,59.6
+Arkansas,AR,5037,59.7
+Arkansas,AR,5039,31.6
+Arkansas,AR,5041,85.2
+Arkansas,AR,5043,91.2
+Arkansas,AR,5045,64.0
+Arkansas,AR,5047,40.2
+Arkansas,AR,5049,62.1
+Arkansas,AR,5051,112.9
+Arkansas,AR,5053,12.6
+Arkansas,AR,5055,98.8
+Arkansas,AR,5057,40.0
+Arkansas,AR,5059,38.0
+Arkansas,AR,5061,58.5
+Arkansas,AR,5063,132.5
+Arkansas,AR,5065,70.5
+Arkansas,AR,5067,55.0
+Arkansas,AR,5069,98.7
+Arkansas,AR,5071,52.3
+Arkansas,AR,5073,91.5
+Arkansas,AR,5075,45.2
+Arkansas,AR,5077,82.0
+Arkansas,AR,5079,11.1
+Arkansas,AR,5081,96.4
+Arkansas,AR,5083,24.6
+Arkansas,AR,5085,16.9
+Arkansas,AR,5087,29.5
+Arkansas,AR,5089,7.2
+Arkansas,AR,5091,83.4
+Arkansas,AR,5093,59.5
+Arkansas,AR,5095,5.9
+Arkansas,AR,5097,80.6
+Arkansas,AR,5099,21.7
+Arkansas,AR,5101,1.4
+Arkansas,AR,5103,70.7
+Arkansas,AR,5105,12.0
+Arkansas,AR,5107,84.2
+Arkansas,AR,5109,30.4
+Arkansas,AR,5111,69.0
+Arkansas,AR,5113,52.8
+Arkansas,AR,5115,41.2
+Arkansas,AR,5117,13.9
+Arkansas,AR,5119,141.7
+Arkansas,AR,5121,20.4
+Arkansas,AR,5123,47.7
+Arkansas,AR,5125,38.3
+Arkansas,AR,5127,62.0
+Arkansas,AR,5129,28.3
+Arkansas,AR,5131,121.5
+Arkansas,AR,5133,11.7
+Arkansas,AR,5135,43.7
+Arkansas,AR,5137,71.4
+Arkansas,AR,5139,113.6
+Arkansas,AR,5141,38.0
+Arkansas,AR,5143,70.2
+Arkansas,AR,5145,54.8
+Arkansas,AR,5147,14.8
+Arkansas,AR,5149,39.7
+California,CA,6001,18.2
+California,CA,6003,23.0
+California,CA,6005,31.8
+California,CA,6007,63.0
+California,CA,6009,24.7
+California,CA,6011,24.7
+California,CA,6013,22.9
+California,CA,6015,56.1
+California,CA,6017,28.4
+California,CA,6019,41.9
+California,CA,6021,25.2
+California,CA,6023,46.8
+California,CA,6025,27.7
+California,CA,6027,26.6
+California,CA,6029,35.1
+California,CA,6031,36.1
+California,CA,6033,27.0
+California,CA,6035,36.3
+California,CA,6037,24.5
+California,CA,6039,20.3
+California,CA,6041,21.2
+California,CA,6043,15.6
+California,CA,6045,56.8
+California,CA,6047,32.8
+California,CA,6049,36.4
+California,CA,6051,31.8
+California,CA,6053,25.8
+California,CA,6055,22.9
+California,CA,6057,38.7
+California,CA,6059,29.8
+California,CA,6061,46.0
+California,CA,6063,41.7
+California,CA,6065,29.1
+California,CA,6067,34.0
+California,CA,6069,12.9
+California,CA,6071,34.5
+California,CA,6073,25.5
+California,CA,6075,30.5
+California,CA,6077,24.7
+California,CA,6079,42.6
+California,CA,6081,17.7
+California,CA,6083,39.1
+California,CA,6085,18.4
+California,CA,6087,27.8
+California,CA,6089,60.9
+California,CA,6091,5.6
+California,CA,6093,53.5
+California,CA,6095,21.5
+California,CA,6097,31.7
+California,CA,6099,54.4
+California,CA,6101,70.1
+California,CA,6103,35.0
+California,CA,6105,31.7
+California,CA,6107,34.9
+California,CA,6109,65.2
+California,CA,6111,30.9
+California,CA,6113,22.9
+California,CA,6115,29.2
+Colorado,CO,8001,28.0
+Colorado,CO,8003,35.8
+Colorado,CO,8005,42.3
+Colorado,CO,8007,37.3
+Colorado,CO,8009,45.2
+Colorado,CO,8011,50.7
+Colorado,CO,8013,39.8
+Colorado,CO,8014,43.9
+Colorado,CO,8015,37.1
+Colorado,CO,8017,27.3
+Colorado,CO,8019,4.7
+Colorado,CO,8021,29.0
+Colorado,CO,8023,0.6
+Colorado,CO,8025,5.3
+Colorado,CO,8027,2.1
+Colorado,CO,8029,37.6
+Colorado,CO,8031,37.1
+Colorado,CO,8033,76.6
+Colorado,CO,8035,26.8
+Colorado,CO,8037,47.8
+Colorado,CO,8039,9.7
+Colorado,CO,8041,47.5
+Colorado,CO,8043,37.4
+Colorado,CO,8045,30.0
+Colorado,CO,8047,0.1
+Colorado,CO,8049,12.5
+Colorado,CO,8051,21.0
+Colorado,CO,8053,17.1
+Colorado,CO,8055,33.8
+Colorado,CO,8057,11.3
+Colorado,CO,8059,35.9
+Colorado,CO,8061,25.4
+Colorado,CO,8063,24.3
+Colorado,CO,8065,11.3
+Colorado,CO,8067,48.8
+Colorado,CO,8069,39.0
+Colorado,CO,8071,66.0
+Colorado,CO,8073,18.5
+Colorado,CO,8075,30.2
+Colorado,CO,8077,52.9
+Colorado,CO,8081,33.5
+Colorado,CO,8083,29.8
+Colorado,CO,8085,37.1
+Colorado,CO,8087,25.0
+Colorado,CO,8089,34.2
+Colorado,CO,8091,15.9
+Colorado,CO,8093,0.7
+Colorado,CO,8095,31.6
+Colorado,CO,8097,27.9
+Colorado,CO,8099,21.5
+Colorado,CO,8101,70.1
+Colorado,CO,8103,25.4
+Colorado,CO,8105,62.3
+Colorado,CO,8107,37.8
+Colorado,CO,8109,0.0
+Colorado,CO,8113,16.7
+Colorado,CO,8115,63.3
+Colorado,CO,8117,28.2
+Colorado,CO,8119,15.2
+Colorado,CO,8121,4.4
+Colorado,CO,8123,22.3
+Colorado,CO,8125,31.3
+Connecticut,CT,9001,33.7
+Connecticut,CT,9003,39.0
+Connecticut,CT,9005,22.8
+Connecticut,CT,9007,26.2
+Connecticut,CT,9009,48.9
+Connecticut,CT,9011,35.4
+Connecticut,CT,9013,17.8
+Connecticut,CT,9015,28.4
+Delaware,DE,10001,29.7
+Delaware,DE,10003,46.8
+Delaware,DE,10005,53.3
+District of Columbia,DC,11001,32.6
+Florida,FL,12001,94.2
+Florida,FL,12003,13.0
+Florida,FL,12005,69.2
+Florida,FL,12007,22.2
+Florida,FL,12009,53.5
+Florida,FL,12011,32.7
+Florida,FL,12013,31.3
+Florida,FL,12015,61.8
+Florida,FL,12017,51.0
+Florida,FL,12019,47.2
+Florida,FL,12021,38.3
+Florida,FL,12023,37.8
+Florida,FL,12027,8.5
+Florida,FL,12029,9.9
+Florida,FL,12031,76.5
+Florida,FL,12033,81.9
+Florida,FL,12035,29.4
+Florida,FL,12037,22.6
+Florida,FL,12039,8.5
+Florida,FL,12041,6.7
+Florida,FL,12045,49.0
+Florida,FL,12047,5.8
+Florida,FL,12049,5.1
+Florida,FL,12051,11.3
+Florida,FL,12053,70.6
+Florida,FL,12055,36.6
+Florida,FL,12057,47.6
+Florida,FL,12059,54.3
+Florida,FL,12061,59.7
+Florida,FL,12063,44.6
+Florida,FL,12065,2.9
+Florida,FL,12067,22.4
+Florida,FL,12069,45.4
+Florida,FL,12071,41.5
+Florida,FL,12073,61.4
+Florida,FL,12075,55.0
+Florida,FL,12077,2.0
+Florida,FL,12079,17.5
+Florida,FL,12081,36.6
+Florida,FL,12083,58.4
+Florida,FL,12085,56.9
+Florida,FL,12086,23.6
+Florida,FL,12087,34.3
+Florida,FL,12089,31.5
+Florida,FL,12091,43.0
+Florida,FL,12093,61.7
+Florida,FL,12095,35.7
+Florida,FL,12097,23.3
+Florida,FL,12099,41.7
+Florida,FL,12101,60.4
+Florida,FL,12103,65.2
+Florida,FL,12105,33.7
+Florida,FL,12107,34.6
+Florida,FL,12109,30.4
+Florida,FL,12111,33.9
+Florida,FL,12113,46.7
+Florida,FL,12115,53.5
+Florida,FL,12117,37.9
+Florida,FL,12119,14.0
+Florida,FL,12121,16.0
+Florida,FL,12123,47.9
+Florida,FL,12125,18.4
+Florida,FL,12127,48.4
+Florida,FL,12129,9.4
+Florida,FL,12131,29.4
+Florida,FL,12133,31.9
+Georgia,GA,13001,41.9
+Georgia,GA,13003,58.1
+Georgia,GA,13005,131.3
+Georgia,GA,13007,42.3
+Georgia,GA,13009,42.2
+Georgia,GA,13011,10.6
+Georgia,GA,13013,63.5
+Georgia,GA,13015,63.6
+Georgia,GA,13017,70.0
+Georgia,GA,13019,14.3
+Georgia,GA,13021,125.6
+Georgia,GA,13023,36.6
+Georgia,GA,13025,6.5
+Georgia,GA,13027,97.6
+Georgia,GA,13029,23.9
+Georgia,GA,13031,81.9
+Georgia,GA,13033,38.0
+Georgia,GA,13035,36.8
+Georgia,GA,13037,12.1
+Georgia,GA,13039,31.1
+Georgia,GA,13043,73.5
+Georgia,GA,13045,73.3
+Georgia,GA,13047,33.9
+Georgia,GA,13049,57.2
+Georgia,GA,13051,76.4
+Georgia,GA,13053,0.9
+Georgia,GA,13055,29.5
+Georgia,GA,13057,53.9
+Georgia,GA,13059,136.3
+Georgia,GA,13061,15.3
+Georgia,GA,13063,21.0
+Georgia,GA,13065,71.5
+Georgia,GA,13067,38.8
+Georgia,GA,13069,142.4
+Georgia,GA,13071,86.2
+Georgia,GA,13073,58.5
+Georgia,GA,13075,43.9
+Georgia,GA,13077,55.6
+Georgia,GA,13079,48.3
+Georgia,GA,13081,90.0
+Georgia,GA,13083,8.9
+Georgia,GA,13085,35.3
+Georgia,GA,13087,74.5
+Georgia,GA,13089,43.2
+Georgia,GA,13091,28.4
+Georgia,GA,13093,1.3
+Georgia,GA,13095,112.3
+Georgia,GA,13097,43.8
+Georgia,GA,13099,55.5
+Georgia,GA,13103,20.9
+Georgia,GA,13105,57.1
+Georgia,GA,13107,63.3
+Georgia,GA,13109,43.9
+Georgia,GA,13111,75.7
+Georgia,GA,13113,71.3
+Georgia,GA,13115,148.7
+Georgia,GA,13117,27.3
+Georgia,GA,13119,37.5
+Georgia,GA,13121,65.0
+Georgia,GA,13123,50.5
+Georgia,GA,13127,73.6
+Georgia,GA,13129,68.9
+Georgia,GA,13131,35.3
+Georgia,GA,13133,49.1
+Georgia,GA,13135,29.2
+Georgia,GA,13137,27.2
+Georgia,GA,13139,77.6
+Georgia,GA,13141,10.1
+Georgia,GA,13143,43.4
+Georgia,GA,13145,4.2
+Georgia,GA,13147,34.0
+Georgia,GA,13149,0.1
+Georgia,GA,13151,41.8
+Georgia,GA,13153,56.0
+Georgia,GA,13155,30.7
+Georgia,GA,13157,46.9
+Georgia,GA,13159,22.8
+Georgia,GA,13161,31.6
+Georgia,GA,13163,40.9
+Georgia,GA,13165,32.5
+Georgia,GA,13167,18.9
+Georgia,GA,13169,24.5
+Georgia,GA,13171,16.4
+Georgia,GA,13173,26.5
+Georgia,GA,13175,96.3
+Georgia,GA,13177,28.7
+Georgia,GA,13179,32.6
+Georgia,GA,13181,65.1
+Georgia,GA,13183,0.2
+Georgia,GA,13185,70.3
+Georgia,GA,13187,22.5
+Georgia,GA,13189,64.1
+Georgia,GA,13191,4.9
+Georgia,GA,13193,25.6
+Georgia,GA,13195,5.5
+Georgia,GA,13197,1.6
+Georgia,GA,13199,35.0
+Georgia,GA,13201,74.6
+Georgia,GA,13205,38.5
+Georgia,GA,13207,22.8
+Georgia,GA,13209,13.7
+Georgia,GA,13211,22.2
+Georgia,GA,13213,30.9
+Georgia,GA,13215,102.4
+Georgia,GA,13217,37.0
+Georgia,GA,13219,39.8
+Georgia,GA,13221,3.6
+Georgia,GA,13223,25.5
+Georgia,GA,13225,46.1
+Georgia,GA,13227,32.8
+Georgia,GA,13229,35.5
+Georgia,GA,13231,5.0
+Georgia,GA,13233,29.5
+Georgia,GA,13235,28.7
+Georgia,GA,13237,14.3
+Georgia,GA,13239,0.7
+Georgia,GA,13241,73.8
+Georgia,GA,13243,21.5
+Georgia,GA,13245,90.4
+Georgia,GA,13247,50.6
+Georgia,GA,13249,13.5
+Georgia,GA,13251,21.0
+Georgia,GA,13253,120.4
+Georgia,GA,13255,92.1
+Georgia,GA,13257,64.6
+Georgia,GA,13259,24.6
+Georgia,GA,13261,73.1
+Georgia,GA,13263,3.3
+Georgia,GA,13267,36.5
+Georgia,GA,13269,3.5
+Georgia,GA,13271,8.5
+Georgia,GA,13273,6.7
+Georgia,GA,13275,124.2
+Georgia,GA,13277,181.6
+Georgia,GA,13279,55.4
+Georgia,GA,13281,76.2
+Georgia,GA,13283,0.3
+Georgia,GA,13285,79.3
+Georgia,GA,13287,39.7
+Georgia,GA,13289,0.2
+Georgia,GA,13291,60.0
+Georgia,GA,13293,90.5
+Georgia,GA,13295,13.0
+Georgia,GA,13297,22.3
+Georgia,GA,13299,160.1
+Georgia,GA,13301,6.3
+Georgia,GA,13303,22.4
+Georgia,GA,13305,100.6
+Georgia,GA,13307,0.9
+Georgia,GA,13309,0.0
+Georgia,GA,13311,19.1
+Georgia,GA,13313,75.7
+Georgia,GA,13315,2.4
+Georgia,GA,13317,43.6
+Georgia,GA,13319,53.3
+Georgia,GA,13321,30.5
+Hawaii,HI,15001,36.9
+Hawaii,HI,15003,24.8
+Hawaii,HI,15007,29.7
+Hawaii,HI,15009,28.8
+Idaho,ID,16001,54.9
+Idaho,ID,16003,13.2
+Idaho,ID,16005,77.5
+Idaho,ID,16007,66.3
+Idaho,ID,16009,20.8
+Idaho,ID,16011,58.1
+Idaho,ID,16013,21.8
+Idaho,ID,16015,9.2
+Idaho,ID,16017,42.5
+Idaho,ID,16019,72.0
+Idaho,ID,16021,33.7
+Idaho,ID,16023,118.2
+Idaho,ID,16027,27.1
+Idaho,ID,16029,101.3
+Idaho,ID,16031,60.4
+Idaho,ID,16035,13.4
+Idaho,ID,16037,8.4
+Idaho,ID,16039,23.4
+Idaho,ID,16041,51.3
+Idaho,ID,16043,15.1
+Idaho,ID,16045,24.3
+Idaho,ID,16047,25.9
+Idaho,ID,16049,27.6
+Idaho,ID,16051,17.6
+Idaho,ID,16053,25.3
+Idaho,ID,16055,59.0
+Idaho,ID,16057,26.5
+Idaho,ID,16059,32.7
+Idaho,ID,16061,14.1
+Idaho,ID,16063,13.4
+Idaho,ID,16065,27.7
+Idaho,ID,16067,18.2
+Idaho,ID,16069,123.1
+Idaho,ID,16071,63.9
+Idaho,ID,16073,6.6
+Idaho,ID,16075,50.7
+Idaho,ID,16077,41.2
+Idaho,ID,16079,31.5
+Idaho,ID,16081,21.3
+Idaho,ID,16083,84.4
+Idaho,ID,16085,21.0
+Idaho,ID,16087,48.1
+Illinois,IL,17001,91.4
+Illinois,IL,17003,56.0
+Illinois,IL,17005,25.3
+Illinois,IL,17007,27.1
+Illinois,IL,17009,42.5
+Illinois,IL,17011,51.6
+Illinois,IL,17013,5.6
+Illinois,IL,17015,15.6
+Illinois,IL,17017,9.2
+Illinois,IL,17019,46.6
+Illinois,IL,17021,24.6
+Illinois,IL,17023,49.9
+Illinois,IL,17025,16.4
+Illinois,IL,17027,12.6
+Illinois,IL,17029,61.9
+Illinois,IL,17031,36.1
+Illinois,IL,17033,9.5
+Illinois,IL,17035,19.2
+Illinois,IL,17037,27.4
+Illinois,IL,17039,23.5
+Illinois,IL,17041,13.3
+Illinois,IL,17043,43.0
+Illinois,IL,17045,35.1
+Illinois,IL,17047,36.9
+Illinois,IL,17049,63.3
+Illinois,IL,17051,18.8
+Illinois,IL,17053,19.1
+Illinois,IL,17055,29.0
+Illinois,IL,17057,49.5
+Illinois,IL,17059,14.3
+Illinois,IL,17061,36.1
+Illinois,IL,17063,47.1
+Illinois,IL,17065,10.5
+Illinois,IL,17067,34.5
+Illinois,IL,17069,159.5
+Illinois,IL,17071,5.1
+Illinois,IL,17073,24.9
+Illinois,IL,17075,36.9
+Illinois,IL,17077,98.3
+Illinois,IL,17079,19.9
+Illinois,IL,17081,96.1
+Illinois,IL,17083,68.3
+Illinois,IL,17085,25.4
+Illinois,IL,17087,13.1
+Illinois,IL,17089,21.1
+Illinois,IL,17091,55.1
+Illinois,IL,17093,11.3
+Illinois,IL,17095,63.3
+Illinois,IL,17097,35.0
+Illinois,IL,17099,28.7
+Illinois,IL,17101,42.5
+Illinois,IL,17103,23.4
+Illinois,IL,17105,44.0
+Illinois,IL,17107,30.1
+Illinois,IL,17109,49.4
+Illinois,IL,17111,27.6
+Illinois,IL,17113,50.9
+Illinois,IL,17115,70.9
+Illinois,IL,17117,22.2
+Illinois,IL,17119,54.6
+Illinois,IL,17121,55.5
+Illinois,IL,17123,20.8
+Illinois,IL,17125,22.7
+Illinois,IL,17127,86.3
+Illinois,IL,17129,1.0
+Illinois,IL,17131,21.3
+Illinois,IL,17133,21.7
+Illinois,IL,17135,49.1
+Illinois,IL,17137,53.6
+Illinois,IL,17139,7.2
+Illinois,IL,17141,16.2
+Illinois,IL,17143,98.8
+Illinois,IL,17145,59.3
+Illinois,IL,17147,25.5
+Illinois,IL,17149,41.0
+Illinois,IL,17151,22.0
+Illinois,IL,17155,36.5
+Illinois,IL,17157,39.1
+Illinois,IL,17159,41.9
+Illinois,IL,17161,46.1
+Illinois,IL,17163,53.1
+Illinois,IL,17165,129.7
+Illinois,IL,17167,84.9
+Illinois,IL,17169,30.8
+Illinois,IL,17171,3.1
+Illinois,IL,17173,15.7
+Illinois,IL,17175,0.6
+Illinois,IL,17177,49.6
+Illinois,IL,17179,29.6
+Illinois,IL,17181,69.2
+Illinois,IL,17183,50.2
+Illinois,IL,17185,35.7
+Illinois,IL,17187,32.3
+Illinois,IL,17189,25.1
+Illinois,IL,17191,56.2
+Illinois,IL,17193,29.1
+Illinois,IL,17195,35.0
+Illinois,IL,17197,31.2
+Illinois,IL,17199,90.0
+Illinois,IL,17201,66.2
+Illinois,IL,17203,30.6
+Indiana,IN,18001,26.0
+Indiana,IN,18003,80.6
+Indiana,IN,18005,52.1
+Indiana,IN,18007,7.8
+Indiana,IN,18009,25.4
+Indiana,IN,18011,39.9
+Indiana,IN,18013,17.2
+Indiana,IN,18015,7.0
+Indiana,IN,18017,18.8
+Indiana,IN,18019,80.3
+Indiana,IN,18021,20.6
+Indiana,IN,18023,14.3
+Indiana,IN,18025,10.2
+Indiana,IN,18027,32.8
+Indiana,IN,18029,73.7
+Indiana,IN,18031,42.8
+Indiana,IN,18033,19.1
+Indiana,IN,18035,83.1
+Indiana,IN,18037,61.3
+Indiana,IN,18039,41.2
+Indiana,IN,18041,31.2
+Indiana,IN,18043,119.2
+Indiana,IN,18045,18.6
+Indiana,IN,18047,25.6
+Indiana,IN,18049,34.3
+Indiana,IN,18051,35.9
+Indiana,IN,18053,34.8
+Indiana,IN,18055,37.1
+Indiana,IN,18057,41.5
+Indiana,IN,18059,31.0
+Indiana,IN,18061,60.2
+Indiana,IN,18063,41.9
+Indiana,IN,18065,46.3
+Indiana,IN,18067,70.3
+Indiana,IN,18069,15.3
+Indiana,IN,18071,59.5
+Indiana,IN,18073,71.7
+Indiana,IN,18075,15.9
+Indiana,IN,18077,61.9
+Indiana,IN,18079,21.5
+Indiana,IN,18081,67.0
+Indiana,IN,18083,98.5
+Indiana,IN,18085,19.2
+Indiana,IN,18087,10.1
+Indiana,IN,18089,62.0
+Indiana,IN,18091,52.9
+Indiana,IN,18093,34.7
+Indiana,IN,18095,60.0
+Indiana,IN,18097,67.2
+Indiana,IN,18099,23.2
+Indiana,IN,18101,46.9
+Indiana,IN,18103,23.5
+Indiana,IN,18105,61.5
+Indiana,IN,18107,23.7
+Indiana,IN,18109,39.9
+Indiana,IN,18111,2.6
+Indiana,IN,18113,17.4
+Indiana,IN,18115,53.3
+Indiana,IN,18117,27.7
+Indiana,IN,18119,23.9
+Indiana,IN,18121,38.5
+Indiana,IN,18123,21.6
+Indiana,IN,18125,38.8
+Indiana,IN,18127,53.0
+Indiana,IN,18129,49.5
+Indiana,IN,18131,31.7
+Indiana,IN,18133,25.9
+Indiana,IN,18135,54.2
+Indiana,IN,18137,35.3
+Indiana,IN,18139,21.4
+Indiana,IN,18141,67.1
+Indiana,IN,18143,147.1
+Indiana,IN,18145,26.1
+Indiana,IN,18147,17.5
+Indiana,IN,18149,51.7
+Indiana,IN,18151,28.8
+Indiana,IN,18153,52.2
+Indiana,IN,18155,5.5
+Indiana,IN,18157,56.2
+Indiana,IN,18159,25.9
+Indiana,IN,18161,26.5
+Indiana,IN,18163,146.1
+Indiana,IN,18165,15.6
+Indiana,IN,18167,81.3
+Indiana,IN,18169,22.7
+Indiana,IN,18171,3.1
+Indiana,IN,18173,63.6
+Indiana,IN,18175,32.9
+Indiana,IN,18177,74.7
+Indiana,IN,18179,40.0
+Indiana,IN,18181,12.2
+Indiana,IN,18183,21.2
+Iowa,IA,19001,13.8
+Iowa,IA,19003,16.2
+Iowa,IA,19005,27.5
+Iowa,IA,19007,40.1
+Iowa,IA,19009,34.5
+Iowa,IA,19011,16.8
+Iowa,IA,19013,54.7
+Iowa,IA,19015,25.6
+Iowa,IA,19017,24.6
+Iowa,IA,19019,12.9
+Iowa,IA,19021,28.1
+Iowa,IA,19023,11.1
+Iowa,IA,19025,52.0
+Iowa,IA,19027,45.3
+Iowa,IA,19029,42.4
+Iowa,IA,19031,18.2
+Iowa,IA,19033,69.5
+Iowa,IA,19035,21.5
+Iowa,IA,19037,6.0
+Iowa,IA,19039,17.6
+Iowa,IA,19041,60.2
+Iowa,IA,19043,11.2
+Iowa,IA,19045,36.6
+Iowa,IA,19047,28.5
+Iowa,IA,19049,10.7
+Iowa,IA,19051,35.9
+Iowa,IA,19053,49.7
+Iowa,IA,19055,24.3
+Iowa,IA,19057,47.3
+Iowa,IA,19059,25.0
+Iowa,IA,19061,36.1
+Iowa,IA,19063,27.2
+Iowa,IA,19065,20.2
+Iowa,IA,19067,38.3
+Iowa,IA,19069,5.6
+Iowa,IA,19071,22.4
+Iowa,IA,19073,43.3
+Iowa,IA,19075,33.8
+Iowa,IA,19077,36.4
+Iowa,IA,19079,49.8
+Iowa,IA,19081,29.7
+Iowa,IA,19083,35.8
+Iowa,IA,19085,36.6
+Iowa,IA,19087,30.8
+Iowa,IA,19089,10.3
+Iowa,IA,19091,21.5
+Iowa,IA,19093,36.1
+Iowa,IA,19095,22.2
+Iowa,IA,19097,13.8
+Iowa,IA,19099,33.3
+Iowa,IA,19101,37.6
+Iowa,IA,19103,67.9
+Iowa,IA,19105,17.3
+Iowa,IA,19107,4.3
+Iowa,IA,19109,15.2
+Iowa,IA,19111,34.6
+Iowa,IA,19113,33.6
+Iowa,IA,19115,12.1
+Iowa,IA,19117,40.9
+Iowa,IA,19119,20.0
+Iowa,IA,19121,28.0
+Iowa,IA,19123,40.9
+Iowa,IA,19125,34.7
+Iowa,IA,19127,33.1
+Iowa,IA,19129,35.6
+Iowa,IA,19131,18.7
+Iowa,IA,19133,37.9
+Iowa,IA,19135,84.1
+Iowa,IA,19137,34.6
+Iowa,IA,19139,29.8
+Iowa,IA,19141,41.2
+Iowa,IA,19143,12.8
+Iowa,IA,19145,47.7
+Iowa,IA,19147,8.6
+Iowa,IA,19149,19.4
+Iowa,IA,19151,18.4
+Iowa,IA,19153,60.2
+Iowa,IA,19155,40.3
+Iowa,IA,19157,35.0
+Iowa,IA,19159,46.9
+Iowa,IA,19161,21.7
+Iowa,IA,19163,54.4
+Iowa,IA,19165,33.1
+Iowa,IA,19167,18.9
+Iowa,IA,19169,30.1
+Iowa,IA,19171,23.5
+Iowa,IA,19173,60.2
+Iowa,IA,19175,54.8
+Iowa,IA,19177,37.7
+Iowa,IA,19179,37.7
+Iowa,IA,19181,20.1
+Iowa,IA,19183,23.4
+Iowa,IA,19185,95.9
+Iowa,IA,19187,50.6
+Iowa,IA,19189,33.5
+Iowa,IA,19191,21.9
+Iowa,IA,19193,44.3
+Iowa,IA,19195,1.5
+Iowa,IA,19197,29.8
+Kansas,KS,20001,83.3
+Kansas,KS,20003,7.9
+Kansas,KS,20005,52.7
+Kansas,KS,20007,24.1
+Kansas,KS,20009,62.2
+Kansas,KS,20011,62.6
+Kansas,KS,20013,73.5
+Kansas,KS,20015,61.7
+Kansas,KS,20017,13.6
+Kansas,KS,20019,38.0
+Kansas,KS,20021,35.8
+Kansas,KS,20023,150.1
+Kansas,KS,20025,55.2
+Kansas,KS,20027,67.0
+Kansas,KS,20029,12.3
+Kansas,KS,20031,85.1
+Kansas,KS,20033,9.5
+Kansas,KS,20035,57.8
+Kansas,KS,20037,71.7
+Kansas,KS,20039,29.9
+Kansas,KS,20041,48.7
+Kansas,KS,20043,2.8
+Kansas,KS,20045,41.9
+Kansas,KS,20047,54.6
+Kansas,KS,20049,1.6
+Kansas,KS,20051,56.5
+Kansas,KS,20053,59.5
+Kansas,KS,20055,30.4
+Kansas,KS,20057,69.7
+Kansas,KS,20059,40.9
+Kansas,KS,20061,38.9
+Kansas,KS,20063,24.1
+Kansas,KS,20065,13.9
+Kansas,KS,20067,23.3
+Kansas,KS,20069,22.7
+Kansas,KS,20071,117.6
+Kansas,KS,20073,15.2
+Kansas,KS,20075,6.0
+Kansas,KS,20077,38.7
+Kansas,KS,20079,72.8
+Kansas,KS,20081,18.0
+Kansas,KS,20083,23.5
+Kansas,KS,20085,25.3
+Kansas,KS,20087,13.0
+Kansas,KS,20089,0.2
+Kansas,KS,20091,55.9
+Kansas,KS,20093,70.4
+Kansas,KS,20095,24.7
+Kansas,KS,20097,74.4
+Kansas,KS,20099,63.8
+Kansas,KS,20101,38.5
+Kansas,KS,20103,27.4
+Kansas,KS,20105,6.3
+Kansas,KS,20107,9.8
+Kansas,KS,20109,44.1
+Kansas,KS,20111,39.7
+Kansas,KS,20113,34.5
+Kansas,KS,20115,8.5
+Kansas,KS,20117,32.5
+Kansas,KS,20119,26.5
+Kansas,KS,20121,23.3
+Kansas,KS,20123,66.5
+Kansas,KS,20125,42.6
+Kansas,KS,20127,11.3
+Kansas,KS,20129,102.8
+Kansas,KS,20131,14.5
+Kansas,KS,20133,81.4
+Kansas,KS,20135,52.7
+Kansas,KS,20137,70.1
+Kansas,KS,20139,17.4
+Kansas,KS,20141,61.3
+Kansas,KS,20143,14.1
+Kansas,KS,20145,19.0
+Kansas,KS,20147,49.8
+Kansas,KS,20149,10.3
+Kansas,KS,20151,96.3
+Kansas,KS,20153,38.9
+Kansas,KS,20155,71.6
+Kansas,KS,20157,13.9
+Kansas,KS,20159,12.3
+Kansas,KS,20161,40.6
+Kansas,KS,20163,54.4
+Kansas,KS,20165,42.6
+Kansas,KS,20167,84.6
+Kansas,KS,20169,94.3
+Kansas,KS,20171,77.3
+Kansas,KS,20173,88.6
+Kansas,KS,20175,54.8
+Kansas,KS,20177,55.6
+Kansas,KS,20179,19.0
+Kansas,KS,20181,33.3
+Kansas,KS,20183,89.7
+Kansas,KS,20185,21.6
+Kansas,KS,20187,105.8
+Kansas,KS,20189,11.5
+Kansas,KS,20191,48.7
+Kansas,KS,20193,55.9
+Kansas,KS,20195,117.2
+Kansas,KS,20197,5.7
+Kansas,KS,20199,3.1
+Kansas,KS,20201,47.0
+Kansas,KS,20203,12.2
+Kansas,KS,20205,109.1
+Kansas,KS,20207,11.3
+Kansas,KS,20209,98.1
+Kentucky,KY,21001,51.0
+Kentucky,KY,21003,33.5
+Kentucky,KY,21005,23.1
+Kentucky,KY,21007,4.2
+Kentucky,KY,21009,78.3
+Kentucky,KY,21011,6.1
+Kentucky,KY,21013,140.0
+Kentucky,KY,21015,40.4
+Kentucky,KY,21017,34.3
+Kentucky,KY,21019,93.7
+Kentucky,KY,21021,94.4
+Kentucky,KY,21023,27.6
+Kentucky,KY,21025,64.3
+Kentucky,KY,21027,23.3
+Kentucky,KY,21029,16.5
+Kentucky,KY,21031,26.6
+Kentucky,KY,21033,35.1
+Kentucky,KY,21035,50.0
+Kentucky,KY,21037,38.5
+Kentucky,KY,21039,77.6
+Kentucky,KY,21041,44.1
+Kentucky,KY,21043,25.8
+Kentucky,KY,21045,30.3
+Kentucky,KY,21047,33.6
+Kentucky,KY,21049,188.1
+Kentucky,KY,21051,138.3
+Kentucky,KY,21053,62.0
+Kentucky,KY,21055,58.1
+Kentucky,KY,21057,64.8
+Kentucky,KY,21059,73.3
+Kentucky,KY,21061,14.9
+Kentucky,KY,21063,4.2
+Kentucky,KY,21065,39.1
+Kentucky,KY,21067,115.3
+Kentucky,KY,21069,38.2
+Kentucky,KY,21071,133.4
+Kentucky,KY,21073,48.7
+Kentucky,KY,21075,19.2
+Kentucky,KY,21077,75.3
+Kentucky,KY,21079,26.9
+Kentucky,KY,21081,18.4
+Kentucky,KY,21083,28.7
+Kentucky,KY,21085,53.8
+Kentucky,KY,21087,24.7
+Kentucky,KY,21089,29.6
+Kentucky,KY,21091,2.6
+Kentucky,KY,21093,67.1
+Kentucky,KY,21095,63.2
+Kentucky,KY,21097,49.6
+Kentucky,KY,21099,12.3
+Kentucky,KY,21101,63.6
+Kentucky,KY,21103,25.6
+Kentucky,KY,21105,48.3
+Kentucky,KY,21107,89.7
+Kentucky,KY,21109,5.9
+Kentucky,KY,21111,86.5
+Kentucky,KY,21113,34.3
+Kentucky,KY,21115,109.8
+Kentucky,KY,21117,79.4
+Kentucky,KY,21119,45.9
+Kentucky,KY,21121,61.2
+Kentucky,KY,21123,25.4
+Kentucky,KY,21125,88.9
+Kentucky,KY,21127,44.5
+Kentucky,KY,21129,85.4
+Kentucky,KY,21131,36.0
+Kentucky,KY,21133,33.8
+Kentucky,KY,21135,17.3
+Kentucky,KY,21137,9.7
+Kentucky,KY,21139,31.3
+Kentucky,KY,21141,21.6
+Kentucky,KY,21143,47.9
+Kentucky,KY,21145,244.4
+Kentucky,KY,21147,26.6
+Kentucky,KY,21149,9.9
+Kentucky,KY,21151,29.7
+Kentucky,KY,21153,68.3
+Kentucky,KY,21155,40.5
+Kentucky,KY,21157,37.1
+Kentucky,KY,21159,76.4
+Kentucky,KY,21161,50.4
+Kentucky,KY,21163,7.1
+Kentucky,KY,21165,14.1
+Kentucky,KY,21167,19.4
+Kentucky,KY,21169,16.6
+Kentucky,KY,21171,36.5
+Kentucky,KY,21173,64.2
+Kentucky,KY,21175,50.0
+Kentucky,KY,21177,40.7
+Kentucky,KY,21179,39.6
+Kentucky,KY,21181,1.2
+Kentucky,KY,21183,82.2
+Kentucky,KY,21185,17.6
+Kentucky,KY,21187,10.3
+Kentucky,KY,21189,192.2
+Kentucky,KY,21191,23.3
+Kentucky,KY,21193,316.5
+Kentucky,KY,21195,119.9
+Kentucky,KY,21197,59.2
+Kentucky,KY,21199,53.2
+Kentucky,KY,21203,48.0
+Kentucky,KY,21205,57.6
+Kentucky,KY,21207,40.9
+Kentucky,KY,21209,37.0
+Kentucky,KY,21211,25.5
+Kentucky,KY,21213,24.5
+Kentucky,KY,21215,7.1
+Kentucky,KY,21217,47.2
+Kentucky,KY,21219,6.2
+Kentucky,KY,21221,13.9
+Kentucky,KY,21223,36.2
+Kentucky,KY,21225,39.2
+Kentucky,KY,21227,88.0
+Kentucky,KY,21229,13.7
+Kentucky,KY,21231,102.9
+Kentucky,KY,21233,44.4
+Kentucky,KY,21235,132.8
+Kentucky,KY,21237,76.6
+Kentucky,KY,21239,31.3
+Louisiana,LA,22001,28.4
+Louisiana,LA,22003,34.7
+Louisiana,LA,22005,33.5
+Louisiana,LA,22007,20.7
+Louisiana,LA,22009,34.7
+Louisiana,LA,22011,29.5
+Louisiana,LA,22013,13.0
+Louisiana,LA,22015,57.4
+Louisiana,LA,22017,134.5
+Louisiana,LA,22019,59.4
+Louisiana,LA,22021,37.2
+Louisiana,LA,22023,3.3
+Louisiana,LA,22025,12.7
+Louisiana,LA,22027,69.1
+Louisiana,LA,22029,32.8
+Louisiana,LA,22031,18.3
+Louisiana,LA,22033,98.2
+Louisiana,LA,22035,70.9
+Louisiana,LA,22037,23.7
+Louisiana,LA,22039,103.1
+Louisiana,LA,22041,62.9
+Louisiana,LA,22043,5.3
+Louisiana,LA,22045,84.4
+Louisiana,LA,22047,9.3
+Louisiana,LA,22049,20.2
+Louisiana,LA,22051,88.6
+Louisiana,LA,22053,47.4
+Louisiana,LA,22055,88.2
+Louisiana,LA,22057,46.0
+Louisiana,LA,22059,65.7
+Louisiana,LA,22061,52.7
+Louisiana,LA,22063,17.1
+Louisiana,LA,22065,4.5
+Louisiana,LA,22067,42.9
+Louisiana,LA,22069,30.3
+Louisiana,LA,22071,87.6
+Louisiana,LA,22073,93.9
+Louisiana,LA,22075,14.7
+Louisiana,LA,22077,28.6
+Louisiana,LA,22079,117.4
+Louisiana,LA,22081,44.8
+Louisiana,LA,22083,85.4
+Louisiana,LA,22085,30.1
+Louisiana,LA,22087,21.6
+Louisiana,LA,22089,12.0
+Louisiana,LA,22091,29.0
+Louisiana,LA,22093,53.4
+Louisiana,LA,22095,65.3
+Louisiana,LA,22097,72.9
+Louisiana,LA,22099,14.9
+Louisiana,LA,22101,30.8
+Louisiana,LA,22103,77.7
+Louisiana,LA,22105,38.8
+Louisiana,LA,22107,24.4
+Louisiana,LA,22109,66.1
+Louisiana,LA,22111,35.9
+Louisiana,LA,22113,23.0
+Louisiana,LA,22115,44.5
+Louisiana,LA,22117,42.3
+Louisiana,LA,22119,40.6
+Louisiana,LA,22121,16.7
+Louisiana,LA,22123,17.7
+Louisiana,LA,22125,13.2
+Louisiana,LA,22127,37.1
+Maine,ME,23001,49.6
+Maine,ME,23003,49.6
+Maine,ME,23005,45.3
+Maine,ME,23007,28.5
+Maine,ME,23009,36.3
+Maine,ME,23011,60.9
+Maine,ME,23013,34.1
+Maine,ME,23015,37.1
+Maine,ME,23017,26.6
+Maine,ME,23019,42.9
+Maine,ME,23021,20.0
+Maine,ME,23023,31.4
+Maine,ME,23025,30.0
+Maine,ME,23027,30.1
+Maine,ME,23029,27.5
+Maine,ME,23031,29.1
+Maryland,MD,24001,91.0
+Maryland,MD,24003,44.0
+Maryland,MD,24005,41.8
+Maryland,MD,24009,45.4
+Maryland,MD,24011,40.2
+Maryland,MD,24013,31.7
+Maryland,MD,24015,16.4
+Maryland,MD,24017,36.9
+Maryland,MD,24019,26.0
+Maryland,MD,24021,56.6
+Maryland,MD,24023,40.0
+Maryland,MD,24025,35.1
+Maryland,MD,24027,26.4
+Maryland,MD,24029,69.8
+Maryland,MD,24031,25.0
+Maryland,MD,24033,24.8
+Maryland,MD,24035,33.8
+Maryland,MD,24037,21.5
+Maryland,MD,24039,6.8
+Maryland,MD,24041,91.0
+Maryland,MD,24043,86.0
+Maryland,MD,24045,65.3
+Maryland,MD,24047,26.7
+Maryland,MD,24510,68.6
+Massachusetts,MA,25001,32.1
+Massachusetts,MA,25003,36.6
+Massachusetts,MA,25005,41.8
+Massachusetts,MA,25007,21.4
+Massachusetts,MA,25009,27.0
+Massachusetts,MA,25011,26.4
+Massachusetts,MA,25013,44.1
+Massachusetts,MA,25015,33.7
+Massachusetts,MA,25017,22.6
+Massachusetts,MA,25019,24.2
+Massachusetts,MA,25021,24.7
+Massachusetts,MA,25023,25.2
+Massachusetts,MA,25025,62.9
+Massachusetts,MA,25027,33.1
+Michigan,MI,26001,24.6
+Michigan,MI,26003,15.4
+Michigan,MI,26005,13.5
+Michigan,MI,26007,52.4
+Michigan,MI,26009,46.4
+Michigan,MI,26011,26.1
+Michigan,MI,26013,36.3
+Michigan,MI,26015,23.0
+Michigan,MI,26017,66.6
+Michigan,MI,26019,41.0
+Michigan,MI,26021,42.7
+Michigan,MI,26023,30.4
+Michigan,MI,26025,63.6
+Michigan,MI,26027,11.2
+Michigan,MI,26029,35.1
+Michigan,MI,26031,51.6
+Michigan,MI,26033,33.2
+Michigan,MI,26035,42.1
+Michigan,MI,26037,24.2
+Michigan,MI,26039,75.8
+Michigan,MI,26041,58.3
+Michigan,MI,26043,43.1
+Michigan,MI,26045,30.3
+Michigan,MI,26047,105.3
+Michigan,MI,26049,73.2
+Michigan,MI,26051,30.6
+Michigan,MI,26053,47.1
+Michigan,MI,26055,81.3
+Michigan,MI,26057,32.3
+Michigan,MI,26059,31.2
+Michigan,MI,26061,31.5
+Michigan,MI,26063,33.4
+Michigan,MI,26065,73.4
+Michigan,MI,26067,33.3
+Michigan,MI,26069,53.9
+Michigan,MI,26071,39.5
+Michigan,MI,26073,31.7
+Michigan,MI,26075,40.2
+Michigan,MI,26077,64.7
+Michigan,MI,26079,39.9
+Michigan,MI,26081,59.6
+Michigan,MI,26085,6.7
+Michigan,MI,26087,31.1
+Michigan,MI,26089,6.1
+Michigan,MI,26091,38.9
+Michigan,MI,26093,25.4
+Michigan,MI,26095,41.9
+Michigan,MI,26097,42.6
+Michigan,MI,26099,54.0
+Michigan,MI,26101,58.6
+Michigan,MI,26103,57.4
+Michigan,MI,26105,48.6
+Michigan,MI,26107,73.2
+Michigan,MI,26109,15.4
+Michigan,MI,26111,50.6
+Michigan,MI,26113,6.2
+Michigan,MI,26115,37.2
+Michigan,MI,26117,47.7
+Michigan,MI,26119,17.4
+Michigan,MI,26121,66.5
+Michigan,MI,26123,35.0
+Michigan,MI,26125,69.7
+Michigan,MI,26127,42.4
+Michigan,MI,26129,78.2
+Michigan,MI,26131,49.5
+Michigan,MI,26133,19.8
+Michigan,MI,26135,8.2
+Michigan,MI,26137,111.5
+Michigan,MI,26139,28.0
+Michigan,MI,26141,20.1
+Michigan,MI,26143,41.7
+Michigan,MI,26145,80.2
+Michigan,MI,26147,56.3
+Michigan,MI,26149,33.2
+Michigan,MI,26151,17.7
+Michigan,MI,26153,45.6
+Michigan,MI,26155,33.7
+Michigan,MI,26157,41.8
+Michigan,MI,26159,35.7
+Michigan,MI,26161,70.2
+Michigan,MI,26163,55.7
+Michigan,MI,26165,62.9
+Minnesota,MN,27001,44.5
+Minnesota,MN,27003,20.3
+Minnesota,MN,27005,21.2
+Minnesota,MN,27007,29.5
+Minnesota,MN,27009,2.3
+Minnesota,MN,27011,45.0
+Minnesota,MN,27013,45.8
+Minnesota,MN,27015,29.3
+Minnesota,MN,27017,26.5
+Minnesota,MN,27019,23.9
+Minnesota,MN,27021,8.4
+Minnesota,MN,27023,21.6
+Minnesota,MN,27025,15.0
+Minnesota,MN,27027,10.0
+Minnesota,MN,27029,57.4
+Minnesota,MN,27031,6.7
+Minnesota,MN,27033,20.2
+Minnesota,MN,27035,33.3
+Minnesota,MN,27037,18.4
+Minnesota,MN,27039,2.4
+Minnesota,MN,27041,37.6
+Minnesota,MN,27043,25.6
+Minnesota,MN,27045,17.9
+Minnesota,MN,27047,17.9
+Minnesota,MN,27049,20.2
+Minnesota,MN,27051,24.2
+Minnesota,MN,27053,38.0
+Minnesota,MN,27055,11.4
+Minnesota,MN,27057,29.5
+Minnesota,MN,27059,23.2
+Minnesota,MN,27061,30.3
+Minnesota,MN,27063,14.9
+Minnesota,MN,27065,32.3
+Minnesota,MN,27067,29.1
+Minnesota,MN,27069,13.7
+Minnesota,MN,27071,36.5
+Minnesota,MN,27073,42.5
+Minnesota,MN,27075,13.2
+Minnesota,MN,27077,4.7
+Minnesota,MN,27079,2.0
+Minnesota,MN,27081,51.8
+Minnesota,MN,27083,25.0
+Minnesota,MN,27085,23.3
+Minnesota,MN,27087,5.0
+Minnesota,MN,27089,9.1
+Minnesota,MN,27091,51.1
+Minnesota,MN,27093,7.5
+Minnesota,MN,27095,30.2
+Minnesota,MN,27097,35.7
+Minnesota,MN,27099,14.6
+Minnesota,MN,27101,20.6
+Minnesota,MN,27103,15.6
+Minnesota,MN,27105,18.2
+Minnesota,MN,27107,9.8
+Minnesota,MN,27109,84.3
+Minnesota,MN,27111,23.7
+Minnesota,MN,27113,35.8
+Minnesota,MN,27115,25.1
+Minnesota,MN,27117,36.7
+Minnesota,MN,27119,28.8
+Minnesota,MN,27121,39.9
+Minnesota,MN,27123,40.0
+Minnesota,MN,27125,3.2
+Minnesota,MN,27127,14.9
+Minnesota,MN,27129,61.0
+Minnesota,MN,27131,19.5
+Minnesota,MN,27133,30.9
+Minnesota,MN,27135,39.3
+Minnesota,MN,27137,47.7
+Minnesota,MN,27139,8.8
+Minnesota,MN,27141,11.7
+Minnesota,MN,27143,11.5
+Minnesota,MN,27145,39.2
+Minnesota,MN,27147,21.7
+Minnesota,MN,27149,28.3
+Minnesota,MN,27151,37.7
+Minnesota,MN,27153,7.5
+Minnesota,MN,27155,10.0
+Minnesota,MN,27157,9.6
+Minnesota,MN,27159,84.0
+Minnesota,MN,27161,16.4
+Minnesota,MN,27163,25.4
+Minnesota,MN,27165,41.0
+Minnesota,MN,27167,6.1
+Minnesota,MN,27169,18.2
+Minnesota,MN,27171,15.4
+Minnesota,MN,27173,38.1
+Mississippi,MS,28001,91.0
+Mississippi,MS,28003,109.9
+Mississippi,MS,28005,10.9
+Mississippi,MS,28007,34.7
+Mississippi,MS,28009,9.7
+Mississippi,MS,28011,35.5
+Mississippi,MS,28013,45.9
+Mississippi,MS,28015,10.6
+Mississippi,MS,28017,24.4
+Mississippi,MS,28019,19.4
+Mississippi,MS,28021,18.7
+Mississippi,MS,28023,20.1
+Mississippi,MS,28025,30.1
+Mississippi,MS,28027,33.4
+Mississippi,MS,28029,51.4
+Mississippi,MS,28031,38.0
+Mississippi,MS,28033,62.0
+Mississippi,MS,28035,193.8
+Mississippi,MS,28037,4.6
+Mississippi,MS,28039,44.4
+Mississippi,MS,28041,14.3
+Mississippi,MS,28043,63.2
+Mississippi,MS,28045,33.9
+Mississippi,MS,28047,83.6
+Mississippi,MS,28049,108.6
+Mississippi,MS,28051,22.7
+Mississippi,MS,28053,17.7
+Mississippi,MS,28057,26.6
+Mississippi,MS,28059,66.2
+Mississippi,MS,28061,3.3
+Mississippi,MS,28063,2.7
+Mississippi,MS,28065,23.7
+Mississippi,MS,28067,104.2
+Mississippi,MS,28069,3.6
+Mississippi,MS,28071,72.3
+Mississippi,MS,28073,13.8
+Mississippi,MS,28075,157.7
+Mississippi,MS,28077,44.3
+Mississippi,MS,28079,46.2
+Mississippi,MS,28081,117.0
+Mississippi,MS,28083,108.2
+Mississippi,MS,28085,79.3
+Mississippi,MS,28087,56.2
+Mississippi,MS,28089,49.2
+Mississippi,MS,28091,56.9
+Mississippi,MS,28093,23.4
+Mississippi,MS,28095,39.3
+Mississippi,MS,28097,18.6
+Mississippi,MS,28099,24.3
+Mississippi,MS,28101,15.3
+Mississippi,MS,28103,14.1
+Mississippi,MS,28105,69.5
+Mississippi,MS,28107,23.2
+Mississippi,MS,28109,32.9
+Mississippi,MS,28111,35.8
+Mississippi,MS,28113,53.9
+Mississippi,MS,28115,26.8
+Mississippi,MS,28117,38.8
+Mississippi,MS,28119,8.5
+Mississippi,MS,28121,63.3
+Mississippi,MS,28123,23.7
+Mississippi,MS,28125,5.7
+Mississippi,MS,28127,29.7
+Mississippi,MS,28129,4.1
+Mississippi,MS,28131,60.2
+Mississippi,MS,28133,28.7
+Mississippi,MS,28135,18.9
+Mississippi,MS,28137,39.2
+Mississippi,MS,28139,19.3
+Mississippi,MS,28141,56.3
+Mississippi,MS,28143,9.8
+Mississippi,MS,28145,70.3
+Mississippi,MS,28147,20.4
+Mississippi,MS,28149,78.9
+Mississippi,MS,28151,69.0
+Mississippi,MS,28153,33.1
+Mississippi,MS,28155,104.8
+Mississippi,MS,28157,39.1
+Mississippi,MS,28159,28.8
+Mississippi,MS,28161,10.5
+Mississippi,MS,28163,10.5
+Missouri,MO,29001,85.3
+Missouri,MO,29003,2.5
+Missouri,MO,29005,62.5
+Missouri,MO,29007,26.4
+Missouri,MO,29009,53.2
+Missouri,MO,29011,35.1
+Missouri,MO,29013,28.8
+Missouri,MO,29015,32.3
+Missouri,MO,29017,17.6
+Missouri,MO,29019,80.3
+Missouri,MO,29021,54.4
+Missouri,MO,29023,125.4
+Missouri,MO,29025,6.6
+Missouri,MO,29027,18.9
+Missouri,MO,29029,49.7
+Missouri,MO,29031,102.8
+Missouri,MO,29033,49.8
+Missouri,MO,29035,15.6
+Missouri,MO,29037,41.6
+Missouri,MO,29039,63.2
+Missouri,MO,29041,6.5
+Missouri,MO,29043,45.4
+Missouri,MO,29045,39.2
+Missouri,MO,29047,51.9
+Missouri,MO,29049,27.6
+Missouri,MO,29051,68.2
+Missouri,MO,29053,14.7
+Missouri,MO,29055,5.2
+Missouri,MO,29057,57.9
+Missouri,MO,29059,16.1
+Missouri,MO,29061,39.1
+Missouri,MO,29063,4.1
+Missouri,MO,29065,54.9
+Missouri,MO,29067,8.2
+Missouri,MO,29069,74.1
+Missouri,MO,29071,48.3
+Missouri,MO,29073,30.9
+Missouri,MO,29075,32.1
+Missouri,MO,29077,83.0
+Missouri,MO,29079,34.8
+Missouri,MO,29081,35.7
+Missouri,MO,29083,68.7
+Missouri,MO,29085,16.9
+Missouri,MO,29087,1.8
+Missouri,MO,29089,59.3
+Missouri,MO,29091,93.7
+Missouri,MO,29093,9.2
+Missouri,MO,29095,58.4
+Missouri,MO,29097,95.8
+Missouri,MO,29099,32.1
+Missouri,MO,29101,31.5
+Missouri,MO,29103,1.1
+Missouri,MO,29105,36.4
+Missouri,MO,29107,29.4
+Missouri,MO,29109,35.7
+Missouri,MO,29111,55.0
+Missouri,MO,29113,27.4
+Missouri,MO,29115,18.0
+Missouri,MO,29117,21.1
+Missouri,MO,29119,8.2
+Missouri,MO,29121,31.2
+Missouri,MO,29123,38.8
+Missouri,MO,29125,5.2
+Missouri,MO,29127,83.6
+Missouri,MO,29129,21.7
+Missouri,MO,29131,19.8
+Missouri,MO,29133,64.3
+Missouri,MO,29135,10.2
+Missouri,MO,29137,7.8
+Missouri,MO,29139,33.4
+Missouri,MO,29141,6.3
+Missouri,MO,29143,4.4
+Missouri,MO,29145,17.8
+Missouri,MO,29147,37.8
+Missouri,MO,29149,7.6
+Missouri,MO,29151,19.7
+Missouri,MO,29153,13.7
+Missouri,MO,29155,32.4
+Missouri,MO,29157,7.0
+Missouri,MO,29159,35.0
+Missouri,MO,29161,76.9
+Missouri,MO,29163,40.2
+Missouri,MO,29165,37.1
+Missouri,MO,29167,60.6
+Missouri,MO,29169,31.8
+Missouri,MO,29171,9.8
+Missouri,MO,29173,11.9
+Missouri,MO,29175,32.0
+Missouri,MO,29177,36.0
+Missouri,MO,29179,1.9
+Missouri,MO,29181,39.5
+Missouri,MO,29183,33.3
+Missouri,MO,29185,34.0
+Missouri,MO,29186,15.2
+Missouri,MO,29187,99.5
+Missouri,MO,29189,68.8
+Missouri,MO,29195,42.0
+Missouri,MO,29197,2.7
+Missouri,MO,29199,40.8
+Missouri,MO,29201,70.6
+Missouri,MO,29203,4.0
+Missouri,MO,29205,5.3
+Missouri,MO,29207,38.0
+Missouri,MO,29209,28.7
+Missouri,MO,29211,63.2
+Missouri,MO,29213,68.8
+Missouri,MO,29215,26.6
+Missouri,MO,29217,33.8
+Missouri,MO,29219,8.6
+Missouri,MO,29221,11.1
+Missouri,MO,29223,0.9
+Missouri,MO,29225,45.8
+Missouri,MO,29229,65.3
+Missouri,MO,29510,80.7
+Montana,MT,30001,34.1
+Montana,MT,30003,9.0
+Montana,MT,30005,11.9
+Montana,MT,30007,13.1
+Montana,MT,30009,13.0
+Montana,MT,30011,0.3
+Montana,MT,30013,56.8
+Montana,MT,30015,15.4
+Montana,MT,30017,77.7
+Montana,MT,30019,0.3
+Montana,MT,30021,29.4
+Montana,MT,30023,52.7
+Montana,MT,30025,5.3
+Montana,MT,30027,32.6
+Montana,MT,30029,66.1
+Montana,MT,30031,29.2
+Montana,MT,30033,9.6
+Montana,MT,30035,17.3
+Montana,MT,30039,18.5
+Montana,MT,30041,30.2
+Montana,MT,30043,15.3
+Montana,MT,30045,1.2
+Montana,MT,30047,39.5
+Montana,MT,30049,44.7
+Montana,MT,30051,10.1
+Montana,MT,30053,56.1
+Montana,MT,30055,23.3
+Montana,MT,30057,9.4
+Montana,MT,30059,34.4
+Montana,MT,30061,25.0
+Montana,MT,30063,59.2
+Montana,MT,30065,25.9
+Montana,MT,30067,28.0
+Montana,MT,30071,41.3
+Montana,MT,30073,43.1
+Montana,MT,30075,1.4
+Montana,MT,30077,55.7
+Montana,MT,30079,18.6
+Montana,MT,30081,31.0
+Montana,MT,30083,17.8
+Montana,MT,30085,26.0
+Montana,MT,30087,13.6
+Montana,MT,30089,44.2
+Montana,MT,30091,1.9
+Montana,MT,30093,51.4
+Montana,MT,30095,24.6
+Montana,MT,30097,13.0
+Montana,MT,30099,14.6
+Montana,MT,30101,110.3
+Montana,MT,30105,18.7
+Montana,MT,30107,3.7
+Montana,MT,30111,68.1
+Nebraska,NE,31001,48.1
+Nebraska,NE,31003,40.5
+Nebraska,NE,31011,13.5
+Nebraska,NE,31013,64.5
+Nebraska,NE,31015,33.8
+Nebraska,NE,31017,7.1
+Nebraska,NE,31019,73.1
+Nebraska,NE,31021,18.7
+Nebraska,NE,31023,41.9
+Nebraska,NE,31025,9.4
+Nebraska,NE,31027,14.9
+Nebraska,NE,31029,70.7
+Nebraska,NE,31031,18.8
+Nebraska,NE,31033,30.8
+Nebraska,NE,31035,1.5
+Nebraska,NE,31037,10.3
+Nebraska,NE,31039,10.0
+Nebraska,NE,31041,43.3
+Nebraska,NE,31043,21.4
+Nebraska,NE,31045,35.9
+Nebraska,NE,31047,25.1
+Nebraska,NE,31049,2.1
+Nebraska,NE,31051,8.1
+Nebraska,NE,31053,43.1
+Nebraska,NE,31055,64.3
+Nebraska,NE,31057,30.8
+Nebraska,NE,31059,20.0
+Nebraska,NE,31061,80.6
+Nebraska,NE,31063,5.0
+Nebraska,NE,31065,31.6
+Nebraska,NE,31067,25.6
+Nebraska,NE,31069,30.2
+Nebraska,NE,31071,75.0
+Nebraska,NE,31079,64.7
+Nebraska,NE,31081,57.7
+Nebraska,NE,31083,34.6
+Nebraska,NE,31085,2.3
+Nebraska,NE,31087,17.4
+Nebraska,NE,31089,48.8
+Nebraska,NE,31091,14.6
+Nebraska,NE,31093,36.0
+Nebraska,NE,31095,44.5
+Nebraska,NE,31097,51.0
+Nebraska,NE,31099,28.3
+Nebraska,NE,31101,47.4
+Nebraska,NE,31105,35.9
+Nebraska,NE,31107,28.4
+Nebraska,NE,31109,47.6
+Nebraska,NE,31111,76.8
+Nebraska,NE,31119,92.2
+Nebraska,NE,31121,39.0
+Nebraska,NE,31123,12.4
+Nebraska,NE,31125,4.5
+Nebraska,NE,31127,77.9
+Nebraska,NE,31129,7.4
+Nebraska,NE,31131,38.0
+Nebraska,NE,31133,37.8
+Nebraska,NE,31135,86.9
+Nebraska,NE,31137,89.7
+Nebraska,NE,31139,43.0
+Nebraska,NE,31141,27.0
+Nebraska,NE,31143,8.7
+Nebraska,NE,31145,45.3
+Nebraska,NE,31147,16.8
+Nebraska,NE,31149,10.2
+Nebraska,NE,31151,26.3
+Nebraska,NE,31153,26.6
+Nebraska,NE,31155,19.3
+Nebraska,NE,31157,75.0
+Nebraska,NE,31159,27.3
+Nebraska,NE,31161,4.8
+Nebraska,NE,31163,3.4
+Nebraska,NE,31169,8.6
+Nebraska,NE,31171,2.2
+Nebraska,NE,31173,22.2
+Nebraska,NE,31175,75.1
+Nebraska,NE,31177,14.6
+Nebraska,NE,31179,33.1
+Nebraska,NE,31181,2.0
+Nebraska,NE,31185,58.2
+Nevada,NV,32001,38.1
+Nevada,NV,32003,47.4
+Nevada,NV,32005,43.2
+Nevada,NV,32007,25.2
+Nevada,NV,32011,8.2
+Nevada,NV,32013,9.7
+Nevada,NV,32015,1.7
+Nevada,NV,32017,48.4
+Nevada,NV,32019,10.2
+Nevada,NV,32021,46.6
+Nevada,NV,32023,38.5
+Nevada,NV,32027,14.9
+Nevada,NV,32029,29.9
+Nevada,NV,32031,53.5
+Nevada,NV,32033,28.6
+Nevada,NV,32510,95.9
+New Hampshire,NH,33001,25.5
+New Hampshire,NH,33003,51.4
+New Hampshire,NH,33005,26.8
+New Hampshire,NH,33007,41.6
+New Hampshire,NH,33009,55.7
+New Hampshire,NH,33011,32.3
+New Hampshire,NH,33013,46.7
+New Hampshire,NH,33015,27.8
+New Hampshire,NH,33017,40.8
+New Hampshire,NH,33019,22.4
+New Jersey,NJ,34001,53.9
+New Jersey,NJ,34003,27.2
+New Jersey,NJ,34005,54.1
+New Jersey,NJ,34007,61.1
+New Jersey,NJ,34009,26.6
+New Jersey,NJ,34011,36.7
+New Jersey,NJ,34013,30.2
+New Jersey,NJ,34015,36.0
+New Jersey,NJ,34017,18.9
+New Jersey,NJ,34019,20.4
+New Jersey,NJ,34021,34.0
+New Jersey,NJ,34023,27.7
+New Jersey,NJ,34025,38.6
+New Jersey,NJ,34027,32.3
+New Jersey,NJ,34029,20.2
+New Jersey,NJ,34031,28.5
+New Jersey,NJ,34033,23.9
+New Jersey,NJ,34035,21.9
+New Jersey,NJ,34037,23.8
+New Jersey,NJ,34039,23.6
+New Jersey,NJ,34041,29.9
+New Mexico,NM,35001,52.0
+New Mexico,NM,35003,13.5
+New Mexico,NM,35005,50.0
+New Mexico,NM,35006,14.2
+New Mexico,NM,35007,74.9
+New Mexico,NM,35009,19.7
+New Mexico,NM,35011,5.3
+New Mexico,NM,35013,34.0
+New Mexico,NM,35015,79.1
+New Mexico,NM,35017,40.1
+New Mexico,NM,35019,108.2
+New Mexico,NM,35021,31.9
+New Mexico,NM,35023,14.2
+New Mexico,NM,35025,35.1
+New Mexico,NM,35027,28.1
+New Mexico,NM,35028,35.6
+New Mexico,NM,35029,44.9
+New Mexico,NM,35031,13.0
+New Mexico,NM,35033,2.0
+New Mexico,NM,35035,33.1
+New Mexico,NM,35037,43.8
+New Mexico,NM,35039,33.4
+New Mexico,NM,35041,27.4
+New Mexico,NM,35043,21.6
+New Mexico,NM,35045,32.9
+New Mexico,NM,35047,30.7
+New Mexico,NM,35049,49.5
+New Mexico,NM,35051,24.0
+New Mexico,NM,35053,43.4
+New Mexico,NM,35055,62.5
+New Mexico,NM,35057,6.6
+New Mexico,NM,35059,45.8
+New Mexico,NM,35061,19.1
+New York,NY,36001,57.5
+New York,NY,36003,27.9
+New York,NY,36005,18.7
+New York,NY,36007,55.6
+New York,NY,36009,36.9
+New York,NY,36011,24.3
+New York,NY,36013,41.9
+New York,NY,36015,67.5
+New York,NY,36017,25.2
+New York,NY,36019,67.5
+New York,NY,36021,35.9
+New York,NY,36023,20.0
+New York,NY,36025,17.8
+New York,NY,36027,32.4
+New York,NY,36029,58.2
+New York,NY,36031,32.7
+New York,NY,36033,32.1
+New York,NY,36035,34.0
+New York,NY,36037,44.1
+New York,NY,36039,18.3
+New York,NY,36041,27.6
+New York,NY,36043,17.5
+New York,NY,36045,49.0
+New York,NY,36047,14.6
+New York,NY,36049,21.8
+New York,NY,36051,40.2
+New York,NY,36053,43.0
+New York,NY,36055,40.2
+New York,NY,36057,50.7
+New York,NY,36059,41.3
+New York,NY,36061,56.3
+New York,NY,36063,27.2
+New York,NY,36065,39.6
+New York,NY,36067,59.5
+New York,NY,36069,36.5
+New York,NY,36071,29.0
+New York,NY,36073,21.2
+New York,NY,36075,22.5
+New York,NY,36077,47.7
+New York,NY,36079,25.1
+New York,NY,36081,12.7
+New York,NY,36083,28.0
+New York,NY,36085,26.6
+New York,NY,36087,27.5
+New York,NY,36089,38.3
+New York,NY,36091,32.2
+New York,NY,36093,29.2
+New York,NY,36095,30.2
+New York,NY,36097,37.7
+New York,NY,36099,23.0
+New York,NY,36101,35.0
+New York,NY,36103,29.9
+New York,NY,36105,71.9
+New York,NY,36107,19.2
+New York,NY,36109,49.8
+New York,NY,36111,34.8
+New York,NY,36113,72.1
+New York,NY,36115,24.1
+New York,NY,36117,13.7
+New York,NY,36119,24.7
+New York,NY,36121,27.0
+New York,NY,36123,16.3
+North Carolina,NC,37001,31.5
+North Carolina,NC,37003,7.1
+North Carolina,NC,37005,41.4
+North Carolina,NC,37007,6.2
+North Carolina,NC,37009,45.2
+North Carolina,NC,37011,32.4
+North Carolina,NC,37013,46.5
+North Carolina,NC,37015,59.5
+North Carolina,NC,37017,31.1
+North Carolina,NC,37019,39.4
+North Carolina,NC,37021,73.5
+North Carolina,NC,37023,61.4
+North Carolina,NC,37025,48.7
+North Carolina,NC,37027,52.4
+North Carolina,NC,37029,0.0
+North Carolina,NC,37031,62.8
+North Carolina,NC,37033,3.5
+North Carolina,NC,37035,104.6
+North Carolina,NC,37037,12.8
+North Carolina,NC,37039,74.1
+North Carolina,NC,37041,42.6
+North Carolina,NC,37043,32.6
+North Carolina,NC,37045,112.2
+North Carolina,NC,37047,73.8
+North Carolina,NC,37049,75.6
+North Carolina,NC,37051,64.3
+North Carolina,NC,37053,11.6
+North Carolina,NC,37055,68.8
+North Carolina,NC,37057,24.9
+North Carolina,NC,37059,30.1
+North Carolina,NC,37061,25.3
+North Carolina,NC,37063,68.2
+North Carolina,NC,37065,26.0
+North Carolina,NC,37067,95.3
+North Carolina,NC,37069,12.8
+North Carolina,NC,37071,65.9
+North Carolina,NC,37073,2.7
+North Carolina,NC,37075,7.5
+North Carolina,NC,37077,24.1
+North Carolina,NC,37079,22.4
+North Carolina,NC,37081,55.9
+North Carolina,NC,37083,50.1
+North Carolina,NC,37085,47.3
+North Carolina,NC,37087,61.3
+North Carolina,NC,37089,36.5
+North Carolina,NC,37091,59.2
+North Carolina,NC,37093,14.7
+North Carolina,NC,37095,2.7
+North Carolina,NC,37097,74.4
+North Carolina,NC,37099,37.8
+North Carolina,NC,37101,35.3
+North Carolina,NC,37103,8.1
+North Carolina,NC,37105,56.1
+North Carolina,NC,37107,42.8
+North Carolina,NC,37109,34.2
+North Carolina,NC,37111,42.4
+North Carolina,NC,37113,22.4
+North Carolina,NC,37115,11.0
+North Carolina,NC,37117,23.9
+North Carolina,NC,37119,51.3
+North Carolina,NC,37121,76.3
+North Carolina,NC,37123,28.2
+North Carolina,NC,37125,124.5
+North Carolina,NC,37127,79.2
+North Carolina,NC,37129,80.5
+North Carolina,NC,37131,8.8
+North Carolina,NC,37133,46.8
+North Carolina,NC,37135,90.9
+North Carolina,NC,37137,3.9
+North Carolina,NC,37139,55.4
+North Carolina,NC,37141,19.6
+North Carolina,NC,37143,15.6
+North Carolina,NC,37145,19.5
+North Carolina,NC,37147,102.3
+North Carolina,NC,37149,27.1
+North Carolina,NC,37151,31.0
+North Carolina,NC,37153,84.1
+North Carolina,NC,37155,58.0
+North Carolina,NC,37157,51.4
+North Carolina,NC,37159,53.8
+North Carolina,NC,37161,45.4
+North Carolina,NC,37163,31.2
+North Carolina,NC,37165,95.1
+North Carolina,NC,37167,35.2
+North Carolina,NC,37169,31.3
+North Carolina,NC,37171,68.8
+North Carolina,NC,37173,96.1
+North Carolina,NC,37175,39.8
+North Carolina,NC,37177,8.9
+North Carolina,NC,37179,22.9
+North Carolina,NC,37181,43.5
+North Carolina,NC,37183,37.2
+North Carolina,NC,37185,2.6
+North Carolina,NC,37187,29.1
+North Carolina,NC,37189,54.5
+North Carolina,NC,37191,40.5
+North Carolina,NC,37193,36.4
+North Carolina,NC,37195,32.9
+North Carolina,NC,37197,19.8
+North Carolina,NC,37199,28.7
+North Dakota,ND,38001,99.1
+North Dakota,ND,38003,34.7
+North Dakota,ND,38005,1.8
+North Dakota,ND,38009,17.0
+North Dakota,ND,38011,12.9
+North Dakota,ND,38013,1.1
+North Dakota,ND,38015,62.8
+North Dakota,ND,38017,36.0
+North Dakota,ND,38019,31.0
+North Dakota,ND,38021,32.2
+North Dakota,ND,38023,3.8
+North Dakota,ND,38025,1.3
+North Dakota,ND,38027,0.2
+North Dakota,ND,38029,37.5
+North Dakota,ND,38031,79.2
+North Dakota,ND,38033,6.1
+North Dakota,ND,38035,56.2
+North Dakota,ND,38037,6.1
+North Dakota,ND,38039,8.5
+North Dakota,ND,38041,1.4
+North Dakota,ND,38043,18.3
+North Dakota,ND,38045,7.5
+North Dakota,ND,38049,5.8
+North Dakota,ND,38051,20.1
+North Dakota,ND,38053,12.0
+North Dakota,ND,38055,22.6
+North Dakota,ND,38057,32.5
+North Dakota,ND,38059,11.0
+North Dakota,ND,38061,2.2
+North Dakota,ND,38063,5.3
+North Dakota,ND,38065,0.1
+North Dakota,ND,38067,39.1
+North Dakota,ND,38069,43.2
+North Dakota,ND,38071,63.8
+North Dakota,ND,38073,25.1
+North Dakota,ND,38077,23.0
+North Dakota,ND,38079,3.3
+North Dakota,ND,38081,1.5
+North Dakota,ND,38083,3.0
+North Dakota,ND,38089,40.8
+North Dakota,ND,38093,32.7
+North Dakota,ND,38095,14.0
+North Dakota,ND,38097,10.9
+North Dakota,ND,38099,14.4
+North Dakota,ND,38101,51.7
+North Dakota,ND,38103,51.3
+North Dakota,ND,38105,31.4
+Ohio,OH,39001,32.9
+Ohio,OH,39003,67.5
+Ohio,OH,39005,18.5
+Ohio,OH,39007,34.3
+Ohio,OH,39009,44.9
+Ohio,OH,39011,20.5
+Ohio,OH,39013,23.5
+Ohio,OH,39015,42.1
+Ohio,OH,39017,41.3
+Ohio,OH,39019,18.5
+Ohio,OH,39021,12.0
+Ohio,OH,39023,51.6
+Ohio,OH,39025,25.9
+Ohio,OH,39027,44.4
+Ohio,OH,39029,19.9
+Ohio,OH,39031,24.0
+Ohio,OH,39033,46.1
+Ohio,OH,39035,53.7
+Ohio,OH,39037,25.2
+Ohio,OH,39039,51.6
+Ohio,OH,39041,28.7
+Ohio,OH,39043,39.9
+Ohio,OH,39045,48.5
+Ohio,OH,39047,65.7
+Ohio,OH,39049,60.4
+Ohio,OH,39051,19.1
+Ohio,OH,39053,53.3
+Ohio,OH,39055,21.6
+Ohio,OH,39057,50.1
+Ohio,OH,39059,28.9
+Ohio,OH,39061,69.3
+Ohio,OH,39063,41.8
+Ohio,OH,39065,19.3
+Ohio,OH,39067,7.9
+Ohio,OH,39069,13.8
+Ohio,OH,39071,32.2
+Ohio,OH,39073,19.9
+Ohio,OH,39075,8.6
+Ohio,OH,39077,38.3
+Ohio,OH,39079,28.6
+Ohio,OH,39081,76.7
+Ohio,OH,39083,19.9
+Ohio,OH,39085,38.6
+Ohio,OH,39087,50.8
+Ohio,OH,39089,21.2
+Ohio,OH,39091,30.2
+Ohio,OH,39093,31.1
+Ohio,OH,39095,79.0
+Ohio,OH,39097,23.1
+Ohio,OH,39099,77.2
+Ohio,OH,39101,73.6
+Ohio,OH,39103,21.3
+Ohio,OH,39105,8.0
+Ohio,OH,39107,22.5
+Ohio,OH,39109,25.3
+Ohio,OH,39111,13.1
+Ohio,OH,39113,69.6
+Ohio,OH,39115,10.3
+Ohio,OH,39117,6.4
+Ohio,OH,39119,57.8
+Ohio,OH,39121,7.3
+Ohio,OH,39123,18.8
+Ohio,OH,39125,14.1
+Ohio,OH,39127,32.0
+Ohio,OH,39129,30.5
+Ohio,OH,39131,50.6
+Ohio,OH,39133,23.3
+Ohio,OH,39135,16.8
+Ohio,OH,39137,15.9
+Ohio,OH,39139,31.4
+Ohio,OH,39141,63.8
+Ohio,OH,39143,24.5
+Ohio,OH,39145,71.1
+Ohio,OH,39147,18.2
+Ohio,OH,39149,21.2
+Ohio,OH,39151,53.1
+Ohio,OH,39153,53.5
+Ohio,OH,39155,40.1
+Ohio,OH,39157,55.7
+Ohio,OH,39159,33.6
+Ohio,OH,39161,28.9
+Ohio,OH,39163,4.2
+Ohio,OH,39165,27.5
+Ohio,OH,39167,61.7
+Ohio,OH,39169,24.6
+Ohio,OH,39171,18.9
+Ohio,OH,39173,30.1
+Ohio,OH,39175,11.1
+Oklahoma,OK,40001,62.2
+Oklahoma,OK,40003,5.8
+Oklahoma,OK,40005,4.7
+Oklahoma,OK,40007,6.9
+Oklahoma,OK,40009,43.0
+Oklahoma,OK,40011,13.9
+Oklahoma,OK,40013,56.7
+Oklahoma,OK,40015,20.3
+Oklahoma,OK,40017,21.2
+Oklahoma,OK,40019,84.3
+Oklahoma,OK,40021,45.8
+Oklahoma,OK,40023,19.8
+Oklahoma,OK,40025,15.9
+Oklahoma,OK,40027,34.7
+Oklahoma,OK,40029,57.3
+Oklahoma,OK,40031,60.7
+Oklahoma,OK,40033,1.2
+Oklahoma,OK,40035,19.2
+Oklahoma,OK,40037,16.1
+Oklahoma,OK,40039,21.3
+Oklahoma,OK,40041,41.1
+Oklahoma,OK,40043,6.8
+Oklahoma,OK,40045,28.1
+Oklahoma,OK,40047,58.8
+Oklahoma,OK,40049,29.7
+Oklahoma,OK,40051,25.1
+Oklahoma,OK,40053,0.3
+Oklahoma,OK,40055,16.0
+Oklahoma,OK,40057,171.3
+Oklahoma,OK,40059,205.1
+Oklahoma,OK,40061,43.3
+Oklahoma,OK,40063,7.3
+Oklahoma,OK,40065,42.6
+Oklahoma,OK,40067,23.3
+Oklahoma,OK,40069,15.5
+Oklahoma,OK,40071,42.2
+Oklahoma,OK,40073,110.9
+Oklahoma,OK,40075,20.1
+Oklahoma,OK,40077,54.1
+Oklahoma,OK,40079,38.2
+Oklahoma,OK,40081,22.3
+Oklahoma,OK,40083,7.0
+Oklahoma,OK,40085,126.2
+Oklahoma,OK,40087,25.4
+Oklahoma,OK,40089,17.0
+Oklahoma,OK,40091,10.7
+Oklahoma,OK,40093,16.5
+Oklahoma,OK,40095,18.3
+Oklahoma,OK,40097,28.8
+Oklahoma,OK,40099,51.2
+Oklahoma,OK,40101,71.4
+Oklahoma,OK,40103,4.1
+Oklahoma,OK,40105,37.1
+Oklahoma,OK,40107,4.5
+Oklahoma,OK,40109,97.3
+Oklahoma,OK,40111,14.7
+Oklahoma,OK,40113,11.0
+Oklahoma,OK,40115,33.4
+Oklahoma,OK,40117,26.1
+Oklahoma,OK,40119,39.8
+Oklahoma,OK,40121,60.7
+Oklahoma,OK,40123,56.7
+Oklahoma,OK,40125,47.1
+Oklahoma,OK,40127,7.0
+Oklahoma,OK,40129,9.9
+Oklahoma,OK,40131,29.5
+Oklahoma,OK,40133,26.2
+Oklahoma,OK,40135,14.0
+Oklahoma,OK,40137,52.8
+Oklahoma,OK,40139,14.3
+Oklahoma,OK,40141,65.0
+Oklahoma,OK,40143,103.1
+Oklahoma,OK,40145,13.1
+Oklahoma,OK,40147,40.7
+Oklahoma,OK,40149,14.0
+Oklahoma,OK,40151,9.6
+Oklahoma,OK,40153,38.5
+Oregon,OR,41001,68.4
+Oregon,OR,41003,56.0
+Oregon,OR,41005,31.0
+Oregon,OR,41007,52.6
+Oregon,OR,41009,24.7
+Oregon,OR,41011,71.7
+Oregon,OR,41013,35.9
+Oregon,OR,41015,83.2
+Oregon,OR,41017,53.1
+Oregon,OR,41019,53.8
+Oregon,OR,41021,22.5
+Oregon,OR,41023,35.9
+Oregon,OR,41025,46.4
+Oregon,OR,41027,72.4
+Oregon,OR,41029,82.8
+Oregon,OR,41031,23.7
+Oregon,OR,41033,47.1
+Oregon,OR,41035,39.7
+Oregon,OR,41037,44.4
+Oregon,OR,41039,61.2
+Oregon,OR,41041,38.1
+Oregon,OR,41043,30.4
+Oregon,OR,41045,84.4
+Oregon,OR,41047,37.9
+Oregon,OR,41049,16.9
+Oregon,OR,41051,47.6
+Oregon,OR,41053,20.9
+Oregon,OR,41055,5.1
+Oregon,OR,41057,59.1
+Oregon,OR,41059,31.5
+Oregon,OR,41061,50.2
+Oregon,OR,41063,51.3
+Oregon,OR,41065,51.3
+Oregon,OR,41067,35.2
+Oregon,OR,41069,50.9
+Oregon,OR,41071,31.3
+Pennsylvania,PA,42001,23.2
+Pennsylvania,PA,42003,63.7
+Pennsylvania,PA,42005,26.8
+Pennsylvania,PA,42007,31.4
+Pennsylvania,PA,42009,19.5
+Pennsylvania,PA,42011,29.6
+Pennsylvania,PA,42013,64.9
+Pennsylvania,PA,42015,50.2
+Pennsylvania,PA,42017,38.9
+Pennsylvania,PA,42019,29.7
+Pennsylvania,PA,42021,54.0
+Pennsylvania,PA,42023,18.3
+Pennsylvania,PA,42025,25.5
+Pennsylvania,PA,42027,30.6
+Pennsylvania,PA,42029,28.8
+Pennsylvania,PA,42031,33.9
+Pennsylvania,PA,42033,46.4
+Pennsylvania,PA,42035,43.6
+Pennsylvania,PA,42037,43.7
+Pennsylvania,PA,42039,53.1
+Pennsylvania,PA,42041,38.2
+Pennsylvania,PA,42043,53.9
+Pennsylvania,PA,42045,41.4
+Pennsylvania,PA,42047,33.2
+Pennsylvania,PA,42049,56.9
+Pennsylvania,PA,42051,81.1
+Pennsylvania,PA,42053,2.8
+Pennsylvania,PA,42055,33.3
+Pennsylvania,PA,42057,15.6
+Pennsylvania,PA,42059,17.0
+Pennsylvania,PA,42061,15.9
+Pennsylvania,PA,42063,30.6
+Pennsylvania,PA,42065,27.8
+Pennsylvania,PA,42067,25.9
+Pennsylvania,PA,42069,65.3
+Pennsylvania,PA,42071,32.8
+Pennsylvania,PA,42073,41.3
+Pennsylvania,PA,42075,27.4
+Pennsylvania,PA,42077,39.9
+Pennsylvania,PA,42079,49.4
+Pennsylvania,PA,42081,50.4
+Pennsylvania,PA,42083,46.4
+Pennsylvania,PA,42085,70.7
+Pennsylvania,PA,42087,36.2
+Pennsylvania,PA,42089,30.0
+Pennsylvania,PA,42091,47.9
+Pennsylvania,PA,42093,260.7
+Pennsylvania,PA,42095,50.4
+Pennsylvania,PA,42097,35.5
+Pennsylvania,PA,42099,15.1
+Pennsylvania,PA,42101,43.2
+Pennsylvania,PA,42103,23.8
+Pennsylvania,PA,42105,35.7
+Pennsylvania,PA,42107,26.8
+Pennsylvania,PA,42109,34.9
+Pennsylvania,PA,42111,24.6
+Pennsylvania,PA,42113,12.1
+Pennsylvania,PA,42115,20.4
+Pennsylvania,PA,42117,33.0
+Pennsylvania,PA,42119,59.1
+Pennsylvania,PA,42121,48.8
+Pennsylvania,PA,42123,36.7
+Pennsylvania,PA,42125,41.1
+Pennsylvania,PA,42127,20.9
+Pennsylvania,PA,42129,36.9
+Pennsylvania,PA,42131,38.6
+Pennsylvania,PA,42133,37.3
+Rhode Island,RI,44001,18.7
+Rhode Island,RI,44003,46.3
+Rhode Island,RI,44005,26.8
+Rhode Island,RI,44007,37.8
+Rhode Island,RI,44009,30.0
+South Carolina,SC,45001,30.0
+South Carolina,SC,45003,40.0
+South Carolina,SC,45005,44.5
+South Carolina,SC,45007,67.1
+South Carolina,SC,45009,46.6
+South Carolina,SC,45011,47.0
+South Carolina,SC,45013,45.4
+South Carolina,SC,45015,18.2
+South Carolina,SC,45017,6.3
+South Carolina,SC,45019,103.6
+South Carolina,SC,45021,51.2
+South Carolina,SC,45023,38.3
+South Carolina,SC,45025,26.7
+South Carolina,SC,45027,57.8
+South Carolina,SC,45029,46.4
+South Carolina,SC,45031,85.7
+South Carolina,SC,45033,51.2
+South Carolina,SC,45035,22.8
+South Carolina,SC,45037,16.3
+South Carolina,SC,45039,23.9
+South Carolina,SC,45041,125.0
+South Carolina,SC,45043,49.8
+South Carolina,SC,45045,67.6
+South Carolina,SC,45047,85.6
+South Carolina,SC,45049,25.5
+South Carolina,SC,45051,54.3
+South Carolina,SC,45053,16.9
+South Carolina,SC,45055,29.7
+South Carolina,SC,45057,30.3
+South Carolina,SC,45059,34.5
+South Carolina,SC,45061,13.2
+South Carolina,SC,45063,57.7
+South Carolina,SC,45065,11.8
+South Carolina,SC,45067,41.5
+South Carolina,SC,45069,18.7
+South Carolina,SC,45071,37.1
+South Carolina,SC,45073,56.4
+South Carolina,SC,45075,43.8
+South Carolina,SC,45077,74.9
+South Carolina,SC,45079,61.3
+South Carolina,SC,45081,11.8
+South Carolina,SC,45083,75.0
+South Carolina,SC,45085,45.6
+South Carolina,SC,45087,17.7
+South Carolina,SC,45089,18.8
+South Carolina,SC,45091,29.1
+South Dakota,SD,46003,21.1
+South Dakota,SD,46005,36.7
+South Dakota,SD,46007,4.0
+South Dakota,SD,46009,12.6
+South Dakota,SD,46011,19.8
+South Dakota,SD,46013,55.8
+South Dakota,SD,46015,52.1
+South Dakota,SD,46017,4.0
+South Dakota,SD,46019,6.0
+South Dakota,SD,46021,5.6
+South Dakota,SD,46023,22.1
+South Dakota,SD,46025,15.2
+South Dakota,SD,46027,25.6
+South Dakota,SD,46029,37.2
+South Dakota,SD,46031,4.6
+South Dakota,SD,46033,29.9
+South Dakota,SD,46035,45.8
+South Dakota,SD,46037,4.0
+South Dakota,SD,46039,3.1
+South Dakota,SD,46041,2.5
+South Dakota,SD,46043,23.1
+South Dakota,SD,46045,33.2
+South Dakota,SD,46047,38.7
+South Dakota,SD,46049,22.1
+South Dakota,SD,46051,27.8
+South Dakota,SD,46053,60.0
+South Dakota,SD,46055,119.1
+South Dakota,SD,46057,1.6
+South Dakota,SD,46059,0.3
+South Dakota,SD,46061,0.3
+South Dakota,SD,46063,2.0
+South Dakota,SD,46065,39.6
+South Dakota,SD,46067,54.8
+South Dakota,SD,46069,38.2
+South Dakota,SD,46071,8.8
+South Dakota,SD,46073,108.1
+South Dakota,SD,46075,31.2
+South Dakota,SD,46077,23.9
+South Dakota,SD,46079,19.3
+South Dakota,SD,46081,31.7
+South Dakota,SD,46083,30.5
+South Dakota,SD,46085,4.0
+South Dakota,SD,46087,18.3
+South Dakota,SD,46089,4.4
+South Dakota,SD,46091,13.8
+South Dakota,SD,46093,6.9
+South Dakota,SD,46095,2.3
+South Dakota,SD,46097,4.0
+South Dakota,SD,46099,53.9
+South Dakota,SD,46101,14.6
+South Dakota,SD,46102,3.0
+South Dakota,SD,46103,49.7
+South Dakota,SD,46105,53.1
+South Dakota,SD,46107,4.5
+South Dakota,SD,46109,31.7
+South Dakota,SD,46111,1.4
+South Dakota,SD,46115,7.9
+South Dakota,SD,46117,2.7
+South Dakota,SD,46119,0.7
+South Dakota,SD,46121,7.4
+South Dakota,SD,46123,42.2
+South Dakota,SD,46125,11.7
+South Dakota,SD,46127,233.8
+South Dakota,SD,46129,31.8
+South Dakota,SD,46135,50.0
+Tennessee,TN,47001,51.9
+Tennessee,TN,47003,31.2
+Tennessee,TN,47005,36.5
+Tennessee,TN,47007,57.5
+Tennessee,TN,47009,41.2
+Tennessee,TN,47011,93.9
+Tennessee,TN,47013,35.5
+Tennessee,TN,47015,21.5
+Tennessee,TN,47017,113.2
+Tennessee,TN,47019,32.9
+Tennessee,TN,47021,38.3
+Tennessee,TN,47023,43.5
+Tennessee,TN,47025,101.9
+Tennessee,TN,47027,32.5
+Tennessee,TN,47029,68.4
+Tennessee,TN,47031,138.1
+Tennessee,TN,47033,16.9
+Tennessee,TN,47035,40.6
+Tennessee,TN,47037,84.8
+Tennessee,TN,47039,68.8
+Tennessee,TN,47041,47.4
+Tennessee,TN,47043,61.4
+Tennessee,TN,47045,80.2
+Tennessee,TN,47047,31.9
+Tennessee,TN,47049,37.4
+Tennessee,TN,47051,52.0
+Tennessee,TN,47053,60.3
+Tennessee,TN,47055,43.7
+Tennessee,TN,47057,12.4
+Tennessee,TN,47059,60.2
+Tennessee,TN,47061,22.4
+Tennessee,TN,47063,124.7
+Tennessee,TN,47065,101.1
+Tennessee,TN,47067,74.9
+Tennessee,TN,47069,32.4
+Tennessee,TN,47071,123.0
+Tennessee,TN,47073,31.5
+Tennessee,TN,47075,25.7
+Tennessee,TN,47077,42.4
+Tennessee,TN,47079,70.5
+Tennessee,TN,47081,14.1
+Tennessee,TN,47083,57.8
+Tennessee,TN,47085,25.7
+Tennessee,TN,47087,7.7
+Tennessee,TN,47089,59.9
+Tennessee,TN,47091,35.0
+Tennessee,TN,47093,105.8
+Tennessee,TN,47095,11.3
+Tennessee,TN,47097,62.8
+Tennessee,TN,47099,37.0
+Tennessee,TN,47101,33.7
+Tennessee,TN,47103,28.4
+Tennessee,TN,47105,20.3
+Tennessee,TN,47107,58.0
+Tennessee,TN,47109,67.8
+Tennessee,TN,47111,15.7
+Tennessee,TN,47113,145.1
+Tennessee,TN,47115,29.2
+Tennessee,TN,47117,54.3
+Tennessee,TN,47119,91.4
+Tennessee,TN,47121,19.7
+Tennessee,TN,47123,54.9
+Tennessee,TN,47125,42.5
+Tennessee,TN,47127,15.9
+Tennessee,TN,47129,33.8
+Tennessee,TN,47131,91.0
+Tennessee,TN,47133,67.8
+Tennessee,TN,47135,99.6
+Tennessee,TN,47137,18.9
+Tennessee,TN,47139,26.6
+Tennessee,TN,47141,93.0
+Tennessee,TN,47143,30.7
+Tennessee,TN,47145,56.1
+Tennessee,TN,47147,44.5
+Tennessee,TN,47149,50.8
+Tennessee,TN,47151,77.4
+Tennessee,TN,47153,31.3
+Tennessee,TN,47155,43.0
+Tennessee,TN,47157,60.2
+Tennessee,TN,47159,51.7
+Tennessee,TN,47161,17.7
+Tennessee,TN,47163,126.4
+Tennessee,TN,47165,55.0
+Tennessee,TN,47167,42.9
+Tennessee,TN,47169,24.7
+Tennessee,TN,47171,62.0
+Tennessee,TN,47173,13.5
+Tennessee,TN,47175,2.0
+Tennessee,TN,47177,46.2
+Tennessee,TN,47179,140.1
+Tennessee,TN,47181,62.0
+Tennessee,TN,47183,85.9
+Tennessee,TN,47185,25.6
+Tennessee,TN,47187,52.4
+Tennessee,TN,47189,45.0
+Texas,TX,48001,36.4
+Texas,TX,48003,11.6
+Texas,TX,48005,58.3
+Texas,TX,48007,17.0
+Texas,TX,48009,0.5
+Texas,TX,48011,20.3
+Texas,TX,48013,20.0
+Texas,TX,48015,20.3
+Texas,TX,48017,23.2
+Texas,TX,48019,9.6
+Texas,TX,48021,13.3
+Texas,TX,48023,33.8
+Texas,TX,48025,14.1
+Texas,TX,48027,53.8
+Texas,TX,48029,44.1
+Texas,TX,48031,7.0
+Texas,TX,48035,13.9
+Texas,TX,48037,104.0
+Texas,TX,48039,27.9
+Texas,TX,48041,39.7
+Texas,TX,48043,20.2
+Texas,TX,48045,0.2
+Texas,TX,48047,18.3
+Texas,TX,48049,59.7
+Texas,TX,48051,16.9
+Texas,TX,48053,13.9
+Texas,TX,48055,6.5
+Texas,TX,48057,29.8
+Texas,TX,48059,6.7
+Texas,TX,48061,22.3
+Texas,TX,48063,38.1
+Texas,TX,48065,2.7
+Texas,TX,48067,44.5
+Texas,TX,48069,9.7
+Texas,TX,48071,8.2
+Texas,TX,48073,28.5
+Texas,TX,48075,63.9
+Texas,TX,48077,12.6
+Texas,TX,48079,17.6
+Texas,TX,48083,14.3
+Texas,TX,48085,29.7
+Texas,TX,48087,14.2
+Texas,TX,48089,22.0
+Texas,TX,48091,32.6
+Texas,TX,48093,52.1
+Texas,TX,48095,1.1
+Texas,TX,48097,31.5
+Texas,TX,48099,14.3
+Texas,TX,48103,14.6
+Texas,TX,48105,26.6
+Texas,TX,48107,17.4
+Texas,TX,48109,71.9
+Texas,TX,48111,19.4
+Texas,TX,48113,45.9
+Texas,TX,48115,9.1
+Texas,TX,48117,4.9
+Texas,TX,48119,4.2
+Texas,TX,48121,30.7
+Texas,TX,48123,34.8
+Texas,TX,48127,6.0
+Texas,TX,48129,0.4
+Texas,TX,48131,3.1
+Texas,TX,48133,14.5
+Texas,TX,48135,41.2
+Texas,TX,48137,0.6
+Texas,TX,48139,30.8
+Texas,TX,48141,27.0
+Texas,TX,48143,35.2
+Texas,TX,48145,27.4
+Texas,TX,48147,18.4
+Texas,TX,48149,63.2
+Texas,TX,48151,3.1
+Texas,TX,48153,28.6
+Texas,TX,48155,51.7
+Texas,TX,48157,20.7
+Texas,TX,48159,28.3
+Texas,TX,48161,12.1
+Texas,TX,48163,9.4
+Texas,TX,48165,10.7
+Texas,TX,48167,41.2
+Texas,TX,48169,2.0
+Texas,TX,48171,72.0
+Texas,TX,48175,4.7
+Texas,TX,48177,13.7
+Texas,TX,48179,67.8
+Texas,TX,48181,64.4
+Texas,TX,48183,105.0
+Texas,TX,48185,9.4
+Texas,TX,48187,18.9
+Texas,TX,48189,29.2
+Texas,TX,48191,15.9
+Texas,TX,48193,49.8
+Texas,TX,48195,5.9
+Texas,TX,48197,37.7
+Texas,TX,48199,16.7
+Texas,TX,48201,37.8
+Texas,TX,48203,36.2
+Texas,TX,48207,4.9
+Texas,TX,48209,22.2
+Texas,TX,48211,1.5
+Texas,TX,48213,33.3
+Texas,TX,48215,17.3
+Texas,TX,48217,34.6
+Texas,TX,48219,27.7
+Texas,TX,48221,56.8
+Texas,TX,48223,42.1
+Texas,TX,48225,13.2
+Texas,TX,48227,19.2
+Texas,TX,48231,29.3
+Texas,TX,48233,32.4
+Texas,TX,48237,8.5
+Texas,TX,48239,16.5
+Texas,TX,48241,27.4
+Texas,TX,48243,42.8
+Texas,TX,48245,70.3
+Texas,TX,48249,44.0
+Texas,TX,48251,37.3
+Texas,TX,48253,10.8
+Texas,TX,48255,23.2
+Texas,TX,48257,20.7
+Texas,TX,48259,29.5
+Texas,TX,48265,39.4
+Texas,TX,48267,18.9
+Texas,TX,48271,1.6
+Texas,TX,48273,23.6
+Texas,TX,48275,26.4
+Texas,TX,48277,68.2
+Texas,TX,48279,14.5
+Texas,TX,48281,15.9
+Texas,TX,48283,8.0
+Texas,TX,48285,12.4
+Texas,TX,48287,11.0
+Texas,TX,48289,7.8
+Texas,TX,48291,28.8
+Texas,TX,48293,25.9
+Texas,TX,48295,0.1
+Texas,TX,48297,5.3
+Texas,TX,48299,20.8
+Texas,TX,48303,85.7
+Texas,TX,48305,11.9
+Texas,TX,48307,17.6
+Texas,TX,48309,48.9
+Texas,TX,48313,23.2
+Texas,TX,48315,9.8
+Texas,TX,48317,24.5
+Texas,TX,48319,2.5
+Texas,TX,48321,30.0
+Texas,TX,48323,9.5
+Texas,TX,48325,15.0
+Texas,TX,48327,1.6
+Texas,TX,48329,21.3
+Texas,TX,48331,24.1
+Texas,TX,48333,7.6
+Texas,TX,48335,52.7
+Texas,TX,48337,39.0
+Texas,TX,48339,37.5
+Texas,TX,48341,33.5
+Texas,TX,48343,12.8
+Texas,TX,48347,54.1
+Texas,TX,48349,23.7
+Texas,TX,48351,7.1
+Texas,TX,48353,25.0
+Texas,TX,48355,70.0
+Texas,TX,48357,21.0
+Texas,TX,48361,52.4
+Texas,TX,48363,25.6
+Texas,TX,48365,21.2
+Texas,TX,48367,27.4
+Texas,TX,48369,19.8
+Texas,TX,48371,18.8
+Texas,TX,48373,27.2
+Texas,TX,48375,102.8
+Texas,TX,48377,5.8
+Texas,TX,48379,1.5
+Texas,TX,48381,26.8
+Texas,TX,48383,1.6
+Texas,TX,48385,1.4
+Texas,TX,48387,82.2
+Texas,TX,48389,31.8
+Texas,TX,48391,9.6
+Texas,TX,48395,5.7
+Texas,TX,48397,42.2
+Texas,TX,48399,35.6
+Texas,TX,48401,18.9
+Texas,TX,48403,29.0
+Texas,TX,48405,28.5
+Texas,TX,48407,3.4
+Texas,TX,48409,27.6
+Texas,TX,48411,5.6
+Texas,TX,48413,22.8
+Texas,TX,48415,15.5
+Texas,TX,48417,2.9
+Texas,TX,48419,18.9
+Texas,TX,48421,0.3
+Texas,TX,48423,99.5
+Texas,TX,48425,45.7
+Texas,TX,48427,25.6
+Texas,TX,48429,18.6
+Texas,TX,48431,1.1
+Texas,TX,48433,2.4
+Texas,TX,48435,15.0
+Texas,TX,48437,6.5
+Texas,TX,48439,45.1
+Texas,TX,48441,72.7
+Texas,TX,48443,72.3
+Texas,TX,48445,20.5
+Texas,TX,48447,18.5
+Texas,TX,48449,49.4
+Texas,TX,48451,46.6
+Texas,TX,48453,39.1
+Texas,TX,48455,20.5
+Texas,TX,48457,9.8
+Texas,TX,48459,7.7
+Texas,TX,48461,3.7
+Texas,TX,48463,23.6
+Texas,TX,48465,21.1
+Texas,TX,48467,18.2
+Texas,TX,48469,67.5
+Texas,TX,48471,25.6
+Texas,TX,48473,4.4
+Texas,TX,48475,32.5
+Texas,TX,48477,29.2
+Texas,TX,48479,16.2
+Texas,TX,48481,31.5
+Texas,TX,48483,4.3
+Texas,TX,48485,78.2
+Texas,TX,48487,49.6
+Texas,TX,48489,16.2
+Texas,TX,48491,29.2
+Texas,TX,48493,12.1
+Texas,TX,48495,8.2
+Texas,TX,48497,45.0
+Texas,TX,48499,29.2
+Texas,TX,48501,15.8
+Texas,TX,48503,37.7
+Texas,TX,48505,3.8
+Texas,TX,48507,2.6
+Utah,UT,49001,73.3
+Utah,UT,49003,31.1
+Utah,UT,49005,34.7
+Utah,UT,49007,125.9
+Utah,UT,49009,0.9
+Utah,UT,49011,45.5
+Utah,UT,49013,46.6
+Utah,UT,49015,31.7
+Utah,UT,49017,56.4
+Utah,UT,49019,46.5
+Utah,UT,49021,53.6
+Utah,UT,49023,37.1
+Utah,UT,49025,46.7
+Utah,UT,49027,27.9
+Utah,UT,49029,22.8
+Utah,UT,49033,7.4
+Utah,UT,49035,53.6
+Utah,UT,49037,14.8
+Utah,UT,49039,38.3
+Utah,UT,49041,72.7
+Utah,UT,49043,41.9
+Utah,UT,49045,20.7
+Utah,UT,49047,36.3
+Utah,UT,49049,40.1
+Utah,UT,49051,20.3
+Utah,UT,49053,67.2
+Utah,UT,49055,18.8
+Utah,UT,49057,58.8
+Vermont,VT,50001,24.8
+Vermont,VT,50003,41.3
+Vermont,VT,50005,25.7
+Vermont,VT,50007,41.6
+Vermont,VT,50009,38.7
+Vermont,VT,50011,32.4
+Vermont,VT,50013,12.7
+Vermont,VT,50015,36.2
+Vermont,VT,50017,21.4
+Vermont,VT,50019,38.3
+Vermont,VT,50021,41.3
+Vermont,VT,50023,32.1
+Vermont,VT,50025,35.0
+Vermont,VT,50027,26.8
+Virginia,VA,51001,19.4
+Virginia,VA,51003,37.0
+Virginia,VA,51005,50.1
+Virginia,VA,51007,1.7
+Virginia,VA,51009,32.3
+Virginia,VA,51011,17.0
+Virginia,VA,51013,31.1
+Virginia,VA,51015,43.2
+Virginia,VA,51017,17.3
+Virginia,VA,51019,17.1
+Virginia,VA,51021,84.1
+Virginia,VA,51023,11.9
+Virginia,VA,51025,6.9
+Virginia,VA,51027,71.4
+Virginia,VA,51029,4.4
+Virginia,VA,51031,5.3
+Virginia,VA,51033,4.2
+Virginia,VA,51035,46.4
+Virginia,VA,51036,6.7
+Virginia,VA,51037,25.5
+Virginia,VA,51041,36.6
+Virginia,VA,51043,17.0
+Virginia,VA,51045,1.5
+Virginia,VA,51047,21.8
+Virginia,VA,51051,79.9
+Virginia,VA,51053,1.9
+Virginia,VA,51057,60.6
+Virginia,VA,51059,26.3
+Virginia,VA,51061,33.1
+Virginia,VA,51063,9.0
+Virginia,VA,51065,6.3
+Virginia,VA,51067,16.0
+Virginia,VA,51069,3.6
+Virginia,VA,51071,26.5
+Virginia,VA,51073,37.1
+Virginia,VA,51075,11.1
+Virginia,VA,51077,14.1
+Virginia,VA,51079,12.9
+Virginia,VA,51081,1.4
+Virginia,VA,51083,18.5
+Virginia,VA,51085,47.2
+Virginia,VA,51087,46.7
+Virginia,VA,51089,5.8
+Virginia,VA,51091,0.3
+Virginia,VA,51093,12.7
+Virginia,VA,51095,39.2
+Virginia,VA,51097,0.5
+Virginia,VA,51099,4.9
+Virginia,VA,51101,9.3
+Virginia,VA,51103,42.5
+Virginia,VA,51105,57.0
+Virginia,VA,51107,17.2
+Virginia,VA,51109,8.7
+Virginia,VA,51111,6.3
+Virginia,VA,51113,4.9
+Virginia,VA,51115,3.4
+Virginia,VA,51117,47.3
+Virginia,VA,51119,7.7
+Virginia,VA,51121,49.3
+Virginia,VA,51125,20.5
+Virginia,VA,51127,17.3
+Virginia,VA,51131,65.9
+Virginia,VA,51133,7.5
+Virginia,VA,51135,32.7
+Virginia,VA,51137,18.1
+Virginia,VA,51139,35.9
+Virginia,VA,51141,40.4
+Virginia,VA,51143,7.1
+Virginia,VA,51145,14.8
+Virginia,VA,51147,20.9
+Virginia,VA,51149,9.1
+Virginia,VA,51153,16.3
+Virginia,VA,51155,35.3
+Virginia,VA,51157,6.8
+Virginia,VA,51159,4.1
+Virginia,VA,51161,74.5
+Virginia,VA,51163,14.3
+Virginia,VA,51165,14.0
+Virginia,VA,51167,66.5
+Virginia,VA,51169,142.9
+Virginia,VA,51171,19.5
+Virginia,VA,51173,37.9
+Virginia,VA,51175,1.8
+Virginia,VA,51177,26.6
+Virginia,VA,51179,13.3
+Virginia,VA,51181,1.2
+Virginia,VA,51183,4.7
+Virginia,VA,51185,70.6
+Virginia,VA,51187,18.1
+Virginia,VA,51191,58.1
+Virginia,VA,51193,4.5
+Virginia,VA,51195,64.1
+Virginia,VA,51197,51.9
+Virginia,VA,51199,19.9
+Virginia,VA,51510,19.2
+Virginia,VA,51520,24.6
+Virginia,VA,51530,25.5
+Virginia,VA,51540,153.8
+Virginia,VA,51550,38.0
+Virginia,VA,51570,73.1
+Virginia,VA,51580,117.6
+Virginia,VA,51590,67.8
+Virginia,VA,51595,123.9
+Virginia,VA,51600,58.2
+Virginia,VA,51610,21.8
+Virginia,VA,51620,57.0
+Virginia,VA,51630,220.4
+Virginia,VA,51640,96.7
+Virginia,VA,51650,27.2
+Virginia,VA,51660,77.9
+Virginia,VA,51670,49.2
+Virginia,VA,51678,113.6
+Virginia,VA,51680,104.5
+Virginia,VA,51683,73.4
+Virginia,VA,51690,343.7
+Virginia,VA,51700,56.3
+Virginia,VA,51710,69.6
+Virginia,VA,51720,406.7
+Virginia,VA,51730,48.7
+Virginia,VA,51735,4.9
+Virginia,VA,51740,47.0
+Virginia,VA,51750,45.4
+Virginia,VA,51760,55.2
+Virginia,VA,51770,89.0
+Virginia,VA,51775,375.6
+Virginia,VA,51790,55.2
+Virginia,VA,51800,43.8
+Virginia,VA,51810,38.4
+Virginia,VA,51820,45.4
+Virginia,VA,51830,0.2
+Virginia,VA,51840,219.0
+Washington,WA,53001,16.3
+Washington,WA,53003,59.9
+Washington,WA,53005,72.9
+Washington,WA,53007,58.1
+Washington,WA,53009,43.1
+Washington,WA,53011,39.8
+Washington,WA,53013,138.2
+Washington,WA,53015,38.2
+Washington,WA,53017,13.7
+Washington,WA,53019,38.0
+Washington,WA,53021,12.4
+Washington,WA,53023,71.3
+Washington,WA,53025,31.7
+Washington,WA,53027,49.1
+Washington,WA,53029,19.0
+Washington,WA,53031,45.5
+Washington,WA,53033,36.4
+Washington,WA,53035,36.1
+Washington,WA,53037,18.4
+Washington,WA,53039,30.8
+Washington,WA,53041,37.2
+Washington,WA,53043,64.4
+Washington,WA,53045,15.9
+Washington,WA,53047,42.6
+Washington,WA,53049,17.6
+Washington,WA,53051,83.5
+Washington,WA,53053,40.4
+Washington,WA,53055,26.3
+Washington,WA,53057,55.0
+Washington,WA,53059,17.5
+Washington,WA,53061,30.4
+Washington,WA,53063,58.8
+Washington,WA,53065,50.9
+Washington,WA,53067,44.0
+Washington,WA,53069,3.6
+Washington,WA,53071,47.4
+Washington,WA,53073,39.9
+Washington,WA,53075,36.6
+Washington,WA,53077,38.5
+West Virginia,WV,54001,23.0
+West Virginia,WV,54003,30.2
+West Virginia,WV,54005,78.3
+West Virginia,WV,54007,22.5
+West Virginia,WV,54009,14.6
+West Virginia,WV,54011,124.2
+West Virginia,WV,54013,42.9
+West Virginia,WV,54015,18.8
+West Virginia,WV,54017,0.7
+West Virginia,WV,54019,23.6
+West Virginia,WV,54021,8.0
+West Virginia,WV,54023,57.1
+West Virginia,WV,54025,58.6
+West Virginia,WV,54027,20.2
+West Virginia,WV,54029,77.7
+West Virginia,WV,54031,26.6
+West Virginia,WV,54033,85.7
+West Virginia,WV,54035,19.7
+West Virginia,WV,54037,23.6
+West Virginia,WV,54039,87.0
+West Virginia,WV,54041,59.4
+West Virginia,WV,54043,26.8
+West Virginia,WV,54045,85.1
+West Virginia,WV,54047,20.7
+West Virginia,WV,54049,37.1
+West Virginia,WV,54051,74.6
+West Virginia,WV,54053,56.2
+West Virginia,WV,54055,54.7
+West Virginia,WV,54057,26.5
+West Virginia,WV,54059,68.0
+West Virginia,WV,54061,62.0
+West Virginia,WV,54063,16.5
+West Virginia,WV,54065,23.1
+West Virginia,WV,54067,47.3
+West Virginia,WV,54069,86.8
+West Virginia,WV,54071,8.9
+West Virginia,WV,54073,10.7
+West Virginia,WV,54075,16.9
+West Virginia,WV,54077,32.6
+West Virginia,WV,54079,49.4
+West Virginia,WV,54081,56.5
+West Virginia,WV,54083,42.3
+West Virginia,WV,54085,13.6
+West Virginia,WV,54087,42.5
+West Virginia,WV,54089,54.7
+West Virginia,WV,54091,24.9
+West Virginia,WV,54093,21.5
+West Virginia,WV,54095,11.6
+West Virginia,WV,54097,13.2
+West Virginia,WV,54099,10.9
+West Virginia,WV,54101,118.2
+West Virginia,WV,54103,33.2
+West Virginia,WV,54105,14.4
+West Virginia,WV,54107,66.8
+West Virginia,WV,54109,42.2
+Wisconsin,WI,55001,4.7
+Wisconsin,WI,55003,61.4
+Wisconsin,WI,55005,42.6
+Wisconsin,WI,55007,4.0
+Wisconsin,WI,55009,48.0
+Wisconsin,WI,55011,3.7
+Wisconsin,WI,55013,26.8
+Wisconsin,WI,55015,9.6
+Wisconsin,WI,55017,16.1
+Wisconsin,WI,55019,16.1
+Wisconsin,WI,55021,35.7
+Wisconsin,WI,55023,30.3
+Wisconsin,WI,55025,42.8
+Wisconsin,WI,55027,29.7
+Wisconsin,WI,55029,29.2
+Wisconsin,WI,55031,15.8
+Wisconsin,WI,55033,17.2
+Wisconsin,WI,55035,57.6
+Wisconsin,WI,55037,9.2
+Wisconsin,WI,55039,29.0
+Wisconsin,WI,55041,6.5
+Wisconsin,WI,55043,27.1
+Wisconsin,WI,55045,41.4
+Wisconsin,WI,55047,21.6
+Wisconsin,WI,55049,26.2
+Wisconsin,WI,55051,29.7
+Wisconsin,WI,55053,12.9
+Wisconsin,WI,55055,15.5
+Wisconsin,WI,55057,36.5
+Wisconsin,WI,55059,30.0
+Wisconsin,WI,55061,12.4
+Wisconsin,WI,55063,53.4
+Wisconsin,WI,55065,20.3
+Wisconsin,WI,55067,40.5
+Wisconsin,WI,55069,27.1
+Wisconsin,WI,55071,29.4
+Wisconsin,WI,55073,46.4
+Wisconsin,WI,55075,40.1
+Wisconsin,WI,55077,2.6
+Wisconsin,WI,55078,9.6
+Wisconsin,WI,55079,62.6
+Wisconsin,WI,55081,32.1
+Wisconsin,WI,55083,19.2
+Wisconsin,WI,55085,50.4
+Wisconsin,WI,55087,40.2
+Wisconsin,WI,55089,45.4
+Wisconsin,WI,55091,26.0
+Wisconsin,WI,55093,11.6
+Wisconsin,WI,55095,44.6
+Wisconsin,WI,55097,21.9
+Wisconsin,WI,55099,29.4
+Wisconsin,WI,55101,35.4
+Wisconsin,WI,55103,17.0
+Wisconsin,WI,55105,42.3
+Wisconsin,WI,55107,14.0
+Wisconsin,WI,55109,15.6
+Wisconsin,WI,55111,37.3
+Wisconsin,WI,55113,35.5
+Wisconsin,WI,55115,12.2
+Wisconsin,WI,55117,55.0
+Wisconsin,WI,55119,13.1
+Wisconsin,WI,55121,6.0
+Wisconsin,WI,55123,23.7
+Wisconsin,WI,55125,30.2
+Wisconsin,WI,55127,18.7
+Wisconsin,WI,55129,52.1
+Wisconsin,WI,55131,25.1
+Wisconsin,WI,55133,41.1
+Wisconsin,WI,55135,32.7
+Wisconsin,WI,55137,16.0
+Wisconsin,WI,55139,41.0
+Wisconsin,WI,55141,47.4
+Wyoming,WY,56001,24.9
+Wyoming,WY,56003,32.1
+Wyoming,WY,56005,37.6
+Wyoming,WY,56007,59.0
+Wyoming,WY,56009,26.9
+Wyoming,WY,56011,5.3
+Wyoming,WY,56013,41.0
+Wyoming,WY,56015,15.0
+Wyoming,WY,56017,98.5
+Wyoming,WY,56019,29.6
+Wyoming,WY,56021,51.1
+Wyoming,WY,56023,40.7
+Wyoming,WY,56025,68.0
+Wyoming,WY,56027,5.8
+Wyoming,WY,56029,55.6
+Wyoming,WY,56031,16.8
+Wyoming,WY,56033,33.5
+Wyoming,WY,56035,29.0
+Wyoming,WY,56037,70.0
+Wyoming,WY,56039,50.6
+Wyoming,WY,56041,60.0
+Wyoming,WY,56043,40.2
+Wyoming,WY,56045,6.7
